@@ -152,16 +152,35 @@ The website features the benefits of joining the prenatal / postpartum exercise 
 7. [GitHub](https://github.com/)
     - GitHub is used to get the initial project template from Code Institute's repository. Then all of the incremental progress was documented through commits pushed to this ![GitHub repository](https://github.com/adrinecl/milestone-project1), where you can also find the code and files that belong the project. After being pushed from Git, the files are updated and the ![commit history](https://github.com/adrinecl/milestone-project1/commits/master) is available here. The website was also deployed to GitHub pages for the live demo.
 
+8. [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
+   - Chrome DevTools is a set of web developer tools built directly into the Google Chrome browser. Used mainly for inspecting elements, in order to fix layout issues and some other bugs.
+
 
 ## Credits
 
+### Code
+
+Main sources for consultation and troubleshooting:
+
+1. [W3Schools](https://www.w3schools.com/)
+- Mainly for CSS syntax.
+
+2. [MDN Web Docs](https://developer.mozilla.org/en-US/)
+
+
+### Content
+
+- All design choices, color palette and concept created by the developer.
+- All content was written by the developer.
+
 ### Media
 
-- The videos and photos used on the website are free to use and are available at [Pexels](https://www.pexels.com).
+- The videos and photos used on the website are free to use. Special thanks and credit goes to Yan Krukov, photographer and videographer, for the amazing and professional videos and photos available at [Pexels](https://www.pexels.com).
 
 ### Acknowledgements
 
-I appreaciate the support and work of the following people throughout this project:
+I appreaciate the support, feedback and guidance of the following people throughout this project:
 
 - My mentor Rohit Sharma.
-- Yan Krukov (photographer and videographer) for the videos and photos available at [Pexels](https://www.pexels.com).
+- My colleagues for the support and encouragement on Slack.
+- The whole staff at Code Institute for being so helpful and readily available on Slack and in general just making the Full-Stack Software Development Program possible.
