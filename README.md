@@ -28,11 +28,18 @@ The website features the benefits of joining the prenatal / postpartum exercise 
 
 ![Landing Page](**ADD LINK LATER**)
 
-- __How it Works Section__
+- __How it Works section__
 
   - The How it Works section will show the user how the program works and some examples of what to expect from the members-only paid content. 
   - Therefore, the user is provided with visual cues of the benefits mentioned earlier and we expect that this will spark their interest in becoming a member.
   - This should add value and encourage the website visitor to seriously consider subscribing to one of the plans presented in the next section. 
 
 ![How it works](**ADD LINK LATER**)
+
+- __Subscribe section__
+
+  - This section will allow the user to compare the Basic with the Premium plan, what features are included in each membership plan, the pricing alternatives and how often they are charged. 
+  - The user can also see which mobile apps are available for download, in order to follow the program on the go.
+
+![Subscribe](**ADD LINK LATER**)
 
