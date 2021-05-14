@@ -24,7 +24,15 @@ The website features the benefits of joining the prenatal / postpartum exercise 
 - __The landing page video__
 
   - The landing page includes a video with an expecting mother calmly stretching and exercising, allowing the user to see exactly what to expect from this site and which audience the product is catered to. 
-  - This section also introduces the user to the benefits of joining the program, in order to grab their interest and make them want to know more details, which will be provided in the coming sections.
+  - This section also introduces the user to the benefits of joining the program, in order to grab their attention and make them want to know more details, which will be provided in the coming sections.
 
 ![Landing Page](**ADD LINK LATER**)
+
+- __How it Works Section__
+
+  - The How it Works section will show the user how the program works and some examples of what to expect from the members-only paid content. 
+  - Therefore, the user is provided with visual cues of the benefits mentioned earlier and we expect that this will spark their interest in becoming a member.
+  - This should add value and encourage the website visitor to seriously consider subscribing to one of the plans presented in the next section. 
+
+![How it works](**ADD LINK LATER**)
 
