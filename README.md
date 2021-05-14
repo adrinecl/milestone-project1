@@ -96,7 +96,6 @@ The website features the benefits of joining the prenatal / postpartum exercise 
 ### Media
 
 - The videos and photos used on the website are free to use and are available at ![Pexels](https://www.pexels.com/).
-- The images used for the gallery page were taken from this other open source site
 
 ### Acknowledgements
 
