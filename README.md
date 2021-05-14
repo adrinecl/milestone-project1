@@ -90,6 +90,17 @@ The website features the benefits of joining the prenatal / postpartum exercise 
 ## Technology
 
 - HTML5 and CSS3 are used in this project.
-- Gitpod was used for the development (VS Code) and incremental progress was documented through commits pushed to this ![GitHub repository](https://github.com/adrinecl/milestone-project1). ![Commit history](https://github.com/adrinecl/milestone-project1/commits/master) available here.
+- Gitpod was used for the development (VS Code) and incremental progress was documented through commits pushed to this ![GitHub repository](https://github.com/adrinecl/milestone-project1). The ![commit history](https://github.com/adrinecl/milestone-project1/commits/master) is available here.
 - The site was deployed to GitHub pages.
 
+### Media
+
+- The videos and photos used on the website are free to use and are available at ![Pexels](https://www.pexels.com/).
+- The images used for the gallery page were taken from this other open source site
+
+### Acknowledgements
+
+I appreaciate the support and work of the following people throughout this project:
+
+- My mentor Rohit Sharma.
+- Yan Krukov (photographer and videographer) for the videos and photos available at ![Pexels](https://www.pexels.com/).
