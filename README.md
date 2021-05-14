@@ -75,10 +75,17 @@ The website features the benefits of joining the prenatal / postpartum exercise 
 - Other nice features would be a blog that could add value to branding and search engine optimization (SEO).
 - Testimonials could also add value as social proof and encourage adoption to the workout program.
 
+
 ## Wireframes
 
 - A first draft was sketched by hand on paper and then Balsamiq was used for the final wireframes.
 [Balsamiq wireframes](https://github.com/adrinecl/milestone-project1/blob/master/docs/paus-wireframe.png).
+
+## Typography and color scheme
+
+- The following fonts were chosen for this project: "Quicksand" for the logo and headings and "Montserrat" for the body, with the alternative of sans-serif as back-up. Available at [Google Fonts](**ADD LINK LATER**).
+- The colors chosen were dusk rose, beige, sage and dark green. See [Color Palette](**ADD LINK LATER**) here.
+- These colors were chosen to represent the following keywords, respectively: feminine, minimalist, calm and nature. They evoke a sense of elegance and appeal to an upscale audience.
 
 ## Technology
 
