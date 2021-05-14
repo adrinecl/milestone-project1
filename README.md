@@ -51,7 +51,7 @@ By subscribing to the website, women can choose between on-demand and live strea
 #### Wireframes
 
 - A first draft was sketched by hand on paper and then Balsamiq was used for the final wireframes.
-[Balsamiq wireframes](https://raw.githubusercontent.com/adrinecl/milestone-project1/master/docs/wireframes/paus-wireframe.png).
+![Balsamiq wireframes](https://raw.githubusercontent.com/adrinecl/milestone-project1/master/docs/wireframes/paus-wireframe.png).
 
 
 ## Features 
@@ -124,19 +124,44 @@ The website features the benefits of joining the prenatal / postpartum exercise 
 
 ## Technologies Used
 
-- HTML5 and CSS3 are used in this project.
-- Gitpod was used for the development (VS Code) and incremental progress was documented through commits pushed to this ![GitHub repository](https://github.com/adrinecl/milestone-project1). The ![commit history](https://github.com/adrinecl/milestone-project1/commits/master) is available here.
-- The site was deployed to GitHub pages.
+### Languages Used
+- [HTML5](https://en.wikipedia.org/wiki/HTML5)
+- [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 
 
+### Frameworks, Libraries & Programs Used
+
+1. [Balsamiq](https://balsamiq.com/)
+    - Balsamiq was used in the conception and design process to create the [wireframes](https://raw.githubusercontent.com/adrinecl/milestone-project1/master/docs/wireframes/paus-wireframe.png).
+
+2. [Google Fonts](https://fonts.google.com/)
+    - Google fonts were used to import the "Quicksand" and "Montserrat" fonts into the style.css file which is used throughout the whole project.
+
+3. [Font Awesome](https://fontawesome.com/)
+    - Font Awesome was used for the icon used as Logo of the website and to add icons for aesthetic, visual metaphors and UX purposes.
+
+4. [Gitpod](https://www.gitpod.io/) 
+    - Gitpod was used for the development of the website, by running Visual Studio Code (VS Code) to edit code, commiting to Git and pushing to GitHub.
+
+5. [VS Code](https://code.visualstudio.com/)
+    - VS Code is used to edit the code on Gitpod.
+
+6. [Git](https://git-scm.com/)
+    - Git was used for version control with the Gitpod terminal to commit to Git and then push to GitHub.
+
+7. [GitHub](https://github.com/)
+    - GitHub is used to get the initial project template from Code Institute's repository. Then all of the incremental progress was documented through commits pushed to this ![GitHub repository](https://github.com/adrinecl/milestone-project1), where you can also find the code and files that belong the project. After being pushed from Git, the files are updated and the ![commit history](https://github.com/adrinecl/milestone-project1/commits/master) is available here. The website was also deployed to GitHub pages for the live demo.
+
+
+## Credits
 
 ### Media
 
-- The videos and photos used on the website are free to use and are available at ![Pexels](https://www.pexels.com).
+- The videos and photos used on the website are free to use and are available at [Pexels](https://www.pexels.com).
 
 ### Acknowledgements
 
 I appreaciate the support and work of the following people throughout this project:
 
 - My mentor Rohit Sharma.
-- Yan Krukov (photographer and videographer) for the videos and photos available at ![Pexels](https://www.pexels.com).
+- Yan Krukov (photographer and videographer) for the videos and photos available at [Pexels](https://www.pexels.com).
