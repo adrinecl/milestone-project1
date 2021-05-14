@@ -65,7 +65,7 @@ The website features the benefits of joining the prenatal / postpartum exercise 
 
 ![Footer](**ADD LINK LATER**)
 
-### Features Left to Implement
+### Future features
 
 - Members-only area with access to the content.
 - Payment form with credit card processing information.
@@ -74,3 +74,14 @@ The website features the benefits of joining the prenatal / postpartum exercise 
 - Privacy Policy and Cookies.
 - Other nice features would be a blog that could add value to branding and search engine optimization (SEO).
 - Testimonials could also add value as social proof and encourage adoption to the workout program.
+
+## Wireframes
+
+- A first draft was sketched by hand on paper and then Balsamiq was used for the final wireframes.
+[Balsamiq wireframes]().
+
+## Technology
+
+- HTML5 and CSS3 are used in this project.
+- Gitpod was used for the development (VS Code) and incremental progress was documented through commits pushed to this ![GitHub repository](https://github.com/adrinecl/milestone-project1).
+- The site was deployed to GitHub pages.
