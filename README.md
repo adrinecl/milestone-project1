@@ -1,12 +1,58 @@
-# Paus
+# Paus Website
 
-Paus is a website intended for expecting and new mothers who wish to have an active and healthy pregnancy and postpartum recovery of the body and mind. This website is targeted towards women who are looking for safe at-home prenatal and postpartum workouts. This website is extremely relevant during times such as the COVID-19 pandemic, when unfortunately expecting and postpartum women are part of the risk group, making online fitness instructions a good alternative during self-isolation and lockdown times. 
+[View the live project here.](**ADD LINK LATER**)
+
+## About the Website
+
+"Paus" is a website intended for expecting and new mothers who wish to have an active and healthy pregnancy and postpartum recovery of the body and mind. This website is targeted towards women who are looking for safe at-home prenatal and postpartum workouts. This website is extremely relevant during times such as the COVID-19 pandemic, when unfortunately expecting and postpartum women are part of the risk group, making online fitness instructions a good alternative during self-isolation and lockdown times. 
 
 The name "Paus" comes from Swedish and it has several alternative translations and interpretations that are all fitting to this project. It can mean a "waiting period", which every pregnancy is in its essence. It can be to "take a break" and have some time for oneself to focus on their own wellbeing, which is essential for busy mothers. It also relates to "pausing" when it is important to take it slow and listen to your body in times of stress or postpartum recovery.
 
 By subscribing to the website, women can choose between on-demand and live stream safe workouts curated specially for each stage of pregnancy. The workout are mainly inpired by yoga, pilates and calisthenics, as well as other activities such as meditation guidance, relaxation tips, mini courses for labor preparation and other relevant information. The live streams are a great way to socialize and keep themselves fit.
 
 ![Responsive Mockup](**ADD LINK LATER**)
+
+
+## User Experience (UX)
+
+-   ### User stories
+
+    -   #### First Time Visitor Goals
+
+        1. As a First Time Visitor, I want to immediately understand the main purpose of the site and if I belong to the audience it targets.
+        2. I want to be able to easily navigate throughout the website in order to find out more about the workout program and its benefits.
+        3. I want to find the subscription plan options, what features they include and their respective pricing. 
+        4. I want to check their social media links to evaluate their engagement with the public and how trustworthy the company is.
+
+    -   #### Returning Visitor Goals
+
+        1. As a Returning Visitor, I want to be able to subscribe for a free trial period.
+        2. I want to be able to get in touch with the company, in order to address any questions that I may have.
+        3. I want to find the links to their social media pages.
+        4. I want to sign up for their newsletter, in case there is a special discount to join the program at a lower rate.
+
+    -   #### Frequent User Goals
+        1. As a Frequent User, I want to find information about how to quickly Login to the members-only paid area.
+        2. I want to check any new social media links or links that I do not follow yet.
+        3. I want to sign up to the newsletter so that I am informed about any major updates, events, live stream sessions and/or changes to the website, pricing or organization.
+        4. I also want to be informed of opportunities to upgrade from the Basic plan to the Premium plan at a special loyalty rate.
+
+### Design
+
+#### Color Scheme
+
+- The colors chosen were dusk rose, beige, sage and dark green. See [Color Palette](**ADD LINK LATER**) here.
+- These colors were chosen to represent the following keywords, respectively: feminine, minimalist, calm and nature. They evoke a sense of elegance and appeal to an upscale audience.
+
+#### Typography
+
+- The following fonts were chosen for this project: "Quicksand" for the logo and headings and "Montserrat" for the body, with the alternative of sans-serif as back-up. Available at [Google Fonts](https://fonts.google.com/specimen/Quicksand?query=Quicksand#standard-styles).
+
+#### Wireframes
+
+- A first draft was sketched by hand on paper and then Balsamiq was used for the final wireframes.
+[Balsamiq wireframes](https://raw.githubusercontent.com/adrinecl/milestone-project1/master/docs/wireframes/paus-wireframe.png).
+
 
 ## Features 
 
@@ -74,23 +120,6 @@ The website features the benefits of joining the prenatal / postpartum exercise 
 - Privacy Policy and Cookies.
 - Other nice features would be a blog that could add value to branding and search engine optimization (SEO).
 - Testimonials could also add value as social proof and encourage adoption to the workout program.
-
-
-### Design
-
-#### Color Scheme
-
-- The colors chosen were dusk rose, beige, sage and dark green. See [Color Palette](**ADD LINK LATER**) here.
-- These colors were chosen to represent the following keywords, respectively: feminine, minimalist, calm and nature. They evoke a sense of elegance and appeal to an upscale audience.
-
-#### Typography
-
-- The following fonts were chosen for this project: "Quicksand" for the logo and headings and "Montserrat" for the body, with the alternative of sans-serif as back-up. Available at [Google Fonts](https://fonts.google.com/specimen/Quicksand?query=Quicksand#standard-styles).
-
-#### Wireframes
-
-- A first draft was sketched by hand on paper and then Balsamiq was used for the final wireframes.
-[Balsamiq wireframes](https://raw.githubusercontent.com/adrinecl/milestone-project1/master/docs/wireframes/paus-wireframe.png).
 
 
 ## Technologies Used
