@@ -79,7 +79,7 @@ The website features the benefits of joining the prenatal / postpartum exercise 
 ## Wireframes
 
 - A first draft was sketched by hand on paper and then Balsamiq was used for the final wireframes.
-[Balsamiq wireframes](https://github.com/adrinecl/milestone-project1/blob/master/docs/paus-wireframe.png).
+[Balsamiq wireframes](https://raw.githubusercontent.com/adrinecl/milestone-project1/master/docs/paus-wireframe.png).
 
 ## Typography and color scheme
 
@@ -95,11 +95,11 @@ The website features the benefits of joining the prenatal / postpartum exercise 
 
 ### Media
 
-- The videos and photos used on the website are free to use and are available at ![Pexels](https://www.pexels.com/).
+- The videos and photos used on the website are free to use and are available at ![Pexels](https://www.pexels.com).
 
 ### Acknowledgements
 
 I appreaciate the support and work of the following people throughout this project:
 
 - My mentor Rohit Sharma.
-- Yan Krukov (photographer and videographer) for the videos and photos available at ![Pexels](https://www.pexels.com/).
+- Yan Krukov (photographer and videographer) for the videos and photos available at ![Pexels](https://www.pexels.com).
