@@ -12,4 +12,11 @@ By subscribing to the website, women can choose between on-demand and live strea
 
 The website features the benefits of joining the prenatal / postpartum exercise program. Visitors can understand how the program works and see the different plans available. There is a basic and a premium plan at different price rates and it is possible to compare, in order for the visitor to pick the most suitable option. There is also a call to action to download the mobile app for more convenient access to the exercises while on the go. 
 
+### Existing Features
 
+- __Navigation Bar__
+
+  - Featured on the top, the navigation bar includes links to the Home page, How it Works, Subscription Plans and Log In page and it is identical in each page to allow for easy navigation.
+  - The navigation bar allows prospective users to navigate without reverting back to the previous page via the "back" button. One can simply navigate from page to page across all devices and members can easily find the appropriate area to login and unlock the members-only paid content. 
+
+![Nav Bar](**ADD LINK LATER**)
