@@ -8,3 +8,8 @@ By subscribing to the website, women can choose between on-demand and live strea
 
 ![Responsive Mockup](**ADD LINK LATER**)
 
+## Features 
+
+The website features the benefits of joining the prenatal / postpartum exercise program. Visitors can understand how the program works and see the different plans available. There is a basic and a premium plan at different price rates and it is possible to compare, in order for the visitor to pick the most suitable option. There is also a call to action to download the mobile app for more convenient access to the exercises while on the go. 
+
+
