@@ -79,7 +79,7 @@ The website features the benefits of joining the prenatal / postpartum exercise 
 ## Wireframes
 
 - A first draft was sketched by hand on paper and then Balsamiq was used for the final wireframes.
-[Balsamiq wireframes](https://raw.githubusercontent.com/adrinecl/milestone-project1/master/docs/paus-wireframe.png).
+[Balsamiq wireframes](https://raw.githubusercontent.com/adrinecl/milestone-project1/master/docs/wireframes/paus-wireframe.png).
 
 ## Typography and color scheme
 
