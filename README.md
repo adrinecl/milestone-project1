@@ -78,10 +78,11 @@ The website features the benefits of joining the prenatal / postpartum exercise 
 ## Wireframes
 
 - A first draft was sketched by hand on paper and then Balsamiq was used for the final wireframes.
-[Balsamiq wireframes]().
+[Balsamiq wireframes](https://github.com/adrinecl/milestone-project1/blob/master/docs/paus-wireframe.png).
 
 ## Technology
 
 - HTML5 and CSS3 are used in this project.
-- Gitpod was used for the development (VS Code) and incremental progress was documented through commits pushed to this ![GitHub repository](https://github.com/adrinecl/milestone-project1).
+- Gitpod was used for the development (VS Code) and incremental progress was documented through commits pushed to this ![GitHub repository](https://github.com/adrinecl/milestone-project1). ![Commit history](https://github.com/adrinecl/milestone-project1/commits/master) available here.
 - The site was deployed to GitHub pages.
+
