@@ -43,11 +43,23 @@ The website features the benefits of joining the prenatal / postpartum exercise 
 
 ![Subscribe](**ADD LINK LATER**)
 
+- __About Us section__
+
+  - This section will allow the user to get to know more about the company.
+
+![About Us](**ADD LINK LATER**)
+
+- __Contact section__
+
+  - This section will allow the user to contact the company through a contact form.
+  - The user needs to provide name, e-mail, the subject of the message and the message itself. All fields will be required. 
+
+![Contact](**ADD LINK LATER**)
+
 - __The Footer__ 
 
-  - The footer section includes links to the About Us page, contact information and relevant social media links for Paus. The external social media links will open to a new tab to allow easy navigation for the user. 
+  - The footer includes the contact information of the company and relevant social media links. The external social media links will open to a new tab to allow easy navigation for the user. 
   - The user is also encouraged to subscribe to the newsletter in a specific field and to keep connected via social media.
   - At the bottom of the page the user will find a convenient shortcut to the top of the page.
 
 ![Footer](**ADD LINK LATER**)
-
