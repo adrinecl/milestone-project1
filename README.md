@@ -76,22 +76,30 @@ The website features the benefits of joining the prenatal / postpartum exercise 
 - Testimonials could also add value as social proof and encourage adoption to the workout program.
 
 
-## Wireframes
+### Design
+
+#### Color Scheme
+
+- The colors chosen were dusk rose, beige, sage and dark green. See [Color Palette](**ADD LINK LATER**) here.
+- These colors were chosen to represent the following keywords, respectively: feminine, minimalist, calm and nature. They evoke a sense of elegance and appeal to an upscale audience.
+
+#### Typography
+
+- The following fonts were chosen for this project: "Quicksand" for the logo and headings and "Montserrat" for the body, with the alternative of sans-serif as back-up. Available at [Google Fonts](https://fonts.google.com/specimen/Quicksand?query=Quicksand#standard-styles).
+
+#### Wireframes
 
 - A first draft was sketched by hand on paper and then Balsamiq was used for the final wireframes.
 [Balsamiq wireframes](https://raw.githubusercontent.com/adrinecl/milestone-project1/master/docs/wireframes/paus-wireframe.png).
 
-## Typography and color scheme
 
-- The following fonts were chosen for this project: "Quicksand" for the logo and headings and "Montserrat" for the body, with the alternative of sans-serif as back-up. Available at [Google Fonts](**ADD LINK LATER**).
-- The colors chosen were dusk rose, beige, sage and dark green. See [Color Palette](**ADD LINK LATER**) here.
-- These colors were chosen to represent the following keywords, respectively: feminine, minimalist, calm and nature. They evoke a sense of elegance and appeal to an upscale audience.
-
-## Technology
+## Technologies Used
 
 - HTML5 and CSS3 are used in this project.
 - Gitpod was used for the development (VS Code) and incremental progress was documented through commits pushed to this ![GitHub repository](https://github.com/adrinecl/milestone-project1). The ![commit history](https://github.com/adrinecl/milestone-project1/commits/master) is available here.
 - The site was deployed to GitHub pages.
+
+
 
 ### Media
 
