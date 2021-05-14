@@ -20,3 +20,11 @@ The website features the benefits of joining the prenatal / postpartum exercise 
   - The navigation bar allows prospective users to navigate without reverting back to the previous page via the "back" button. One can simply navigate from page to page across all devices and members can easily find the appropriate area to login and unlock the members-only paid content. 
 
 ![Nav Bar](**ADD LINK LATER**)
+
+- __The landing page video__
+
+  - The landing page includes a video with an expecting mother calmly stretching and exercising, allowing the user to see exactly what to expect from this site and which audience the product is catered to. 
+  - This section also introduces the user to the benefits of joining the program, in order to grab their interest and make them want to know more details, which will be provided in the coming sections.
+
+![Landing Page](**ADD LINK LATER**)
+
