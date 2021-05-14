@@ -16,8 +16,9 @@ The website features the benefits of joining the prenatal / postpartum exercise 
 
 - __Navigation Bar__
 
-  - Featured on the top, the navigation bar includes links to the Home page, How it Works, Subscription Plans and Log In page and it is identical in each page to allow for easy navigation.
-  - The navigation bar allows prospective users to navigate without reverting back to the previous page via the "back" button. One can simply navigate from page to page across all devices and members can easily find the appropriate area to login and unlock the members-only paid content. 
+  - Featured on the top, the navigation bar includes the logo of the company and links to the Home page, How it Works, Subscribe and Log In page and it is identical in each page to allow for easy navigation.
+  - The navigation bar allows prospective users to navigate without reverting back to the previous page via the "back" button. One can simply navigate from page to page across all devices.
+  - Members can easily find the appropriate area to login (pop-up form with e-mail and password fields, both required fields). The login is mandatory to unlock the members-only paid content. 
 
 ![Nav Bar](**ADD LINK LATER**)
 
@@ -63,3 +64,13 @@ The website features the benefits of joining the prenatal / postpartum exercise 
   - At the bottom of the page the user will find a convenient shortcut to the top of the page.
 
 ![Footer](**ADD LINK LATER**)
+
+### Features Left to Implement
+
+- Members-only area with access to the content.
+- Payment form with credit card processing information.
+- A mobile app for easy access to the the members-only area on the go.
+- Terms and conditions (related to subscription, charging, cancellation, user license agreement etc).
+- Privacy Policy and Cookies.
+- Other nice features would be a blog that could add value to branding and search engine optimization (SEO).
+- Testimonials could also add value as social proof and encourage adoption to the workout program.
