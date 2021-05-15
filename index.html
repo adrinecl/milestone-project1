@@ -28,10 +28,10 @@
         </div>
         <div class="navbar">
             <a href="index.html">Home</a>
-            <a href="#">How it works</a>
-            <a href="#">Subscribe</a>
-            <a href="#">About Us</a>
-            <a href="#">Contact</a>
+            <a href="#how-it-works">How it works</a>
+            <a href="#subscription-plans">Subscribe</a>
+            <a href="#about-us">About Us</a>
+            <a href="#contact">Contact</a>
         </div>
     </header>
     <section id="home">
@@ -103,6 +103,7 @@
         </div>
 
         <div id="how-to-plans"></div>
+
         <section id="subscription-plans">
             <p>
                 <h2>Subscription Plans</h2>
@@ -110,24 +111,36 @@
             <div class="container-3">
                 <div id="phone-app-mockup">
                     <h3></h3>
-                    <p></p>
                 </div>
                 <div id="basic-plan">
                     <h3>Basic</h3>
-                    <p></p>
                 </div>
                 <div id="premium-plan">
                     <h3>Premium</h3>
-                    <p></p>
                 </div>
         </section>
-        <div id="plans-to-about"></div>
-        <section>
+
+        <section id="about-contact">
             <div id="about-us"></div>
+
+            <div id="contact">
+                <form method="POST" action="https://formdump.codeinstitute.net/">
+                    <label for="fname">First Name:</label>
+                    <input type="text" name="fname" id="fname" required>
+                    <label for="lname">Last Name:</label>
+                    <input type="text" name="lname" id="lname" required>
+                    <label for="email">Email Address:</label>
+                    <input type="email" name="email" id="email" required>
+                    <label for="subject">Subject:</label>
+                    <input type="text" name="subject" id="subject" required>
+                    <label for="message">Your Message:</label>
+                    <input type="textarea" name="message" id="message" required>
+                    <br>
+                    <input id="send" type="submit" value="Send">
+                    <input id="cancel" type="reset" value="Cancel">
+                </form>
+            </div>
         </section>
-
-        <div id="contact-to-footer"></div>
-
 
         <footer>
             <div class="container-footer">
