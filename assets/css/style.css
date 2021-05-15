@@ -10,14 +10,14 @@ header {
     background-color: rgba(197, 186, 171, 1);
     position: fixed;
     width: 100%;
-    margin-top: -50px;
+    margin-top: -60px;
 }
 
 body {
     font-family: 'Montserrat', sans-serif;
     font-weight: 300;
     color: #3a3a3a;
-    padding-top: 50px;
+    padding-top: 60px;
 }
 
 /* heading and logo */
@@ -25,11 +25,13 @@ body {
 h1 {
     font-family: Quicksand, sans-serif;
     font-size: xx-large;
+    font-weight: 400;
+    line-height: 50px;
     text-transform: lowercase;
     letter-spacing: 3px;
     color:rgba(145, 118, 106, 1);
     text-align: center;
-    padding: 5px 0 5px 0;
+    padding: 5px 0;
 }
 
 h1::before {
@@ -55,3 +57,36 @@ a:link {
     width: 100%;
     display: block;
 }
+
+/* Sections */
+
+.container-1 {
+    height: 100px;
+    background-color: rgba(145, 118, 106, 1);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px 0;
+}
+
+.container-1 div {
+    padding: 10px;
+    color: #fafafa;
+    font-weight: heavier;
+    text-align: center;
+    flex-grow: 2;
+}
+
+#box-2, #box-4 {
+    border-left: 1px solid rgba(197, 186, 171, 1);
+}
+
+.box-arrow {
+    width: 50px;
+    flex-grow: 0;
+}
+
+
+
+
+
