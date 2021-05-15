@@ -155,18 +155,29 @@ The website features the benefits of joining the prenatal / postpartum exercise 
 8. [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
    - Chrome DevTools is a set of web developer tools built directly into the Google Chrome browser. Used mainly for inspecting elements, in order to fix layout issues and some other bugs.
 
+## Testing
+
+### Validator Testing
+
+### Unfixed Bugs
+
+
+## Deployment
+
+
 
 ## Credits
 
 ### Code
 
+All code written by the developer.
 Main sources for consultation and troubleshooting:
 
 1. [W3Schools](https://www.w3schools.com/)
-- Mainly for CSS syntax.
+- Mainly for CSS syntax help and troubleshooting.
 
 2. [MDN Web Docs](https://developer.mozilla.org/en-US/)
-
+- Mainly for CSS syntax help and troubleshooting.
 
 ### Content
 
@@ -181,6 +192,6 @@ Main sources for consultation and troubleshooting:
 
 I appreaciate the support, feedback and guidance of the following people throughout this project:
 
-- My mentor Rohit Sharma.
+- My mentor [Rohit Sharma](https://github.com/rohit0286).
 - My colleagues for the support and encouragement on Slack.
 - The whole staff at Code Institute for being so helpful and readily available on Slack and in general just making the Full-Stack Software Development Program possible.
