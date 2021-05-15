@@ -175,14 +175,6 @@ a {
     padding: 10px 0;
 }
 
-#about-contact {
-    height: 300px;
-    background-color: rgba(197, 186, 171, 1);
-    color: #1F0303;
-    text-align: center;
-    padding: 10px 0;
-}
-
 /* Subscription Plans section */
 
 .container-3 {
@@ -203,6 +195,29 @@ a {
     padding-top: 10px;
 }
 
+/* About Us section */
+
+.container-4 {
+    height: 620px;
+    background-color: rgba(197, 186, 171, 1);
+    color: #1F0303;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px 0;
+}
+
+#about-contact {
+    background-color: rgba(197, 186, 171, 1);
+    color: #1F0303;
+    text-align: center;
+    padding: 10px 0;
+}
+
+#about-us-photo {
+    height: 50%;
+    width: 50%;
+}
 
 /* Footer */
 
