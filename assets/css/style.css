@@ -10,14 +10,15 @@ header {
     background-color: rgba(145, 118, 106, 1);
     position: fixed;
     width: 100%;
-    margin-top: -60px;
+    margin-top: -66px;
+    z-index: 1;
 }
 
 body {
     font-family: 'Montserrat', sans-serif;
     font-weight: 300;
     color: #1F0303;
-    padding-top: 60px;
+    padding-top: 66px;
 }
 
 /* Headings and logo */
@@ -45,7 +46,8 @@ body {
     display: none;
 }
 
-header:hover .navbar {
+header:hover .navbar,
+.navbar:hover {
     display: flex;
     background-color: #fafafa;
     justify-content: space-evenly;
@@ -145,7 +147,7 @@ a {
     flex-grow: 1;
 }
 
-#how-it-works > h2 {
+#how-it-works>h2 {
     background-color: rgba(197, 186, 171, 1);
     color: #1F0303;
     height: 35px;
@@ -162,14 +164,6 @@ a {
 }
 
 
-#some-text {
-    height: 150px;
-    background-color: #fafafa;
-    color: #1F0303;
-    text-align: center;
-    padding: 10px 0;
-}
-
 /* Subscription Plans section */
 
 .container-3 {
@@ -182,7 +176,7 @@ a {
     padding: 10px 0;
 }
 
-#subscription-plans > h2 {
+#subscription-plans>h2 {
     background-color: rgba(147, 171, 153, 1);
     color: #1F0303;
     height: 35px;
@@ -219,7 +213,7 @@ a {
     text-align: center;
 }
 
-.social-networks > li {
+.social-networks>li {
     display: inline;
 }
 

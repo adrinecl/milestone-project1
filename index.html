@@ -17,15 +17,15 @@
 
 <body>
     <header>
-    <div class="container-logo">   
-        <div class="logo"><a href="index.html">
-            <h1 id="logo">Paus</h1>
-            </a>
+        <div class="container-logo">
+            <div class="logo"><a href="index.html">
+                    <h1 id="logo">Paus</h1>
+                </a>
+            </div>
+            <div class="login">
+                <a href="#">Login</a>
+            </div>
         </div>
-        <div class="login">
-            <a href="#">Login</a>
-        </div>
-    </div>    
         <div class="navbar">
             <a href="index.html">Home</a>
             <a href="#">How it works</a>
@@ -34,14 +34,12 @@
             <a href="#">Contact</a>
         </div>
     </header>
-    <section>
+    <section id="home">
         <div id="hero">
             <video autoplay="" id="hero-video" loop="" muted="">
                 <source src="assets/videos/paus-hero-video.mp4" type="video/mp4" />
             </video>
         </div>
-    </section>
-    <section id="benefits">
         <div class="container-1">
             <div id="box-1">
                 <h3>Fitness</h3>
@@ -103,77 +101,82 @@
                 <p></p>
             </div>
         </div>
-    </section>
-    <div id="some-text"></div>
-    <section id="subscription-plans">
-        <p>
-            <h2>Subscription Plans</h2>
-        </p>
-        <div class="container-3">
-            <div id="phone-app-mockup">
-                <h3></h3>
-                <p></p>
-            </div>
-            <div id="basic-plan">
-                <h3>Basic</h3>
-                <p></p>
-            </div>
-            <div id="premium-plan">
-                <h3>Premium</h3>
-                <p></p>
-            </div>
-    </section>
-    <section>About Us</section>
-    <section>Contact</section>
 
-    <footer>
-        <div class="container-footer">
-            <div id="about-us">
-                <a href="index.html">
-                    <h1 id="logo-footer">Paus</h1>
-                </a>
-                <h4></h4>
-                <hr>
-            </div>
-            <div id="social-media">
-                <ul class="social-networks">
-                    <li>
-                        <a href="https://facebook.com" target="_blank" rel="noopener"
-                            aria-label="Visit our Facebook page (opens in a new tab)"><i
-                                class="fab fa-facebook"></i></a>
-                    </li>
-                    <li>
-                        <a href="https://twitter.com" target="_blank" rel="noopener"
-                            aria-label="Visit our Twitter page (opens in a new tab)"><i
-                                class="fab fa-twitter-square"></i></a>
-                    </li>
-                    <li>
-                        <a href="https://youtube.com" target="_blank" rel="noopener"
-                            aria-label="Visit our YouTube page (opens in a new tab)"><i
-                                class="fab fa-youtube-square"></i></a>
-                    </li>
-                    <li>
-                        <a href="https://instagram.com" target="_blank" rel="noopener"
-                            aria-label="Visit our Instagram page (opens in a new tab)"><i
-                                class="fab fa-instagram"></i></a>
-                    </li>
-                </ul>
-            </div>
-            <div id="newsletter-signup">
-                <form method="POST" action="https://formdump.codeinstitute.net/" class="signup-newsletter">
-                    <h2>Sign up to our newsletter!</h2>
-                    <br>
-                    <label for="email">Email Address</label>
-                    <input id="email" class="text-input" type="email" name="email_address" required>
+        <div id="how-to-plans"></div>
+        <section id="subscription-plans">
+            <p>
+                <h2>Subscription Plans</h2>
+            </p>
+            <div class="container-3">
+                <div id="phone-app-mockup">
+                    <h3></h3>
+                    <p></p>
+                </div>
+                <div id="basic-plan">
+                    <h3>Basic</h3>
+                    <p></p>
+                </div>
+                <div id="premium-plan">
+                    <h3>Premium</h3>
+                    <p></p>
+                </div>
+        </section>
+        <div id="plans-to-about"></div>
+        <section>
+            <div id="about-us"></div>
+        </section>
 
-                    <input class="join-newsletter" type="submit" value="Send">
-                </form>
-            </div>
-        </div>
-    </footer>
+        <div id="contact-to-footer"></div>
 
-    <!-- font awesome script -->
-    <script src="https://kit.fontawesome.com/1e4467d18a.js" crossorigin="anonymous"></script>
+
+        <footer>
+            <div class="container-footer">
+                <div id="footer-about">
+                    <a href="index.html">
+                        <h1 id="logo-footer">Paus</h1>
+                    </a>
+                    <h4></h4>
+                    <hr>
+                </div>
+                <div id="social-media">
+                    <ul class="social-networks">
+                        <li>
+                            <a href="https://facebook.com" target="_blank" rel="noopener"
+                                aria-label="Visit our Facebook page (opens in a new tab)"><i
+                                    class="fab fa-facebook"></i></a>
+                        </li>
+                        <li>
+                            <a href="https://twitter.com" target="_blank" rel="noopener"
+                                aria-label="Visit our Twitter page (opens in a new tab)"><i
+                                    class="fab fa-twitter-square"></i></a>
+                        </li>
+                        <li>
+                            <a href="https://youtube.com" target="_blank" rel="noopener"
+                                aria-label="Visit our YouTube page (opens in a new tab)"><i
+                                    class="fab fa-youtube-square"></i></a>
+                        </li>
+                        <li>
+                            <a href="https://instagram.com" target="_blank" rel="noopener"
+                                aria-label="Visit our Instagram page (opens in a new tab)"><i
+                                    class="fab fa-instagram"></i></a>
+                        </li>
+                    </ul>
+                </div>
+                <div id="newsletter-signup">
+                    <form method="POST" action="https://formdump.codeinstitute.net/" class="signup-newsletter">
+                        <h2>Sign up to our newsletter!</h2>
+                        <br>
+                        <label for="email">Email Address</label>
+                        <input id="email" class="text-input" type="email" name="email_address" required>
+
+                        <input class="join-newsletter" type="submit" value="Send">
+                    </form>
+                </div>
+            </div>
+        </footer>
+
+        <!-- font awesome script -->
+        <script src="https://kit.fontawesome.com/1e4467d18a.js" crossorigin="anonymous"></script>
 </body>
 
 </html>
