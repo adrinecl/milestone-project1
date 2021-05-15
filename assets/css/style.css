@@ -7,6 +7,31 @@
 }
 
 header {
-    background-color: rgba(145, 118, 106, 0.7);
+    background-color: rgba(197, 186, 171, 1);
+    position: fixed;
+    width: 100%
+}
+
+/* heading and logo */
+
+h1 {
+    font-family: Quicksand, sans-serif;
+    font-size: xx-large;
+    text-transform: lowercase;
+    letter-spacing: 3px;
+    color:rgba(145, 118, 106, 1);
     text-align: center;
+    padding: 5px 0 5px 0;
+}
+
+h1::before {
+    content: "\f1ce";
+    font-family: "FontAwesome";
+    font-size: 50%;
+    font-weight: normal;
+    margin: 0 6px 0 0;
+}
+
+a:link {
+    text-decoration: none;
 }
