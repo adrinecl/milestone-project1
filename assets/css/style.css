@@ -22,6 +22,35 @@ body {
 
 /* Headings and logo */
 
+.container-logo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.container-logo div {
+    color: #fafafa;
+}
+
+.logo {
+    margin: 0 auto;
+    flex-grow: 1;
+}
+
+.login {
+    margin-right: 30px;
+}
+
+.navbar {
+    display: none;
+}
+
+header:hover .navbar {
+    display: block;
+    background-color: rgba(145, 118, 106, 1);
+}
+
+
 h1 {
     font-family: Quicksand, sans-serif;
     font-size: xx-large;
@@ -42,8 +71,9 @@ h1::before {
     margin: 0 6px 0 0;
 }
 
-a:link {
+a {
     text-decoration: none;
+    color: #fafafa;
 }
 
 /* hero video */
