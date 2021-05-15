@@ -7,7 +7,7 @@
 }
 
 header {
-    background-color: rgba(197, 186, 171, 1);
+    background-color: rgba(145, 118, 106, 1);
     position: fixed;
     width: 100%;
     margin-top: -60px;
@@ -29,7 +29,7 @@ h1 {
     line-height: 50px;
     text-transform: lowercase;
     letter-spacing: 3px;
-    color:rgba(145, 118, 106, 1);
+    color: #fafafa;
     text-align: center;
     padding: 5px 0;
 }
@@ -50,6 +50,7 @@ a:link {
 
 #hero {
     height: 650px;
+    width: 100%;
     overflow: hidden;
 }
 
@@ -59,6 +60,8 @@ a:link {
 }
 
 /* Sections */
+
+/* Benefits section */
 
 .container-1 {
     height: 100px;
@@ -74,7 +77,7 @@ a:link {
     color: #fafafa;
     font-weight: heavier;
     text-align: center;
-    flex-grow: 2;
+    flex-grow: 1;
 }
 
 #box-2, #box-4 {
@@ -86,7 +89,41 @@ a:link {
     flex-grow: 0;
 }
 
+/* Footer */
 
+.container-footer {
+    height: 100px;
+    background-color: rgba(108, 135, 116, 1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 0;
+}
 
+.container-footer div {
+    padding: 10px;
+    color: #fafafa;
+    font-weight: heavier;
+    text-align: center;
+    flex-grow: 1;
+}
 
+#logo-footer {
+    color: #fafafa;
+    text-align: center;
+}
 
+.social-networks {
+    text-align: center;
+}
+
+.social-networks > li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #fafafa;
+}
