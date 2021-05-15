@@ -43,3 +43,15 @@ h1::before {
 a:link {
     text-decoration: none;
 }
+
+/* hero video */
+
+#hero {
+    height: 650px;
+    overflow: hidden;
+}
+
+#hero-video {
+    width: 100%;
+    display: block;
+}
