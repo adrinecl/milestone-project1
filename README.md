@@ -15,29 +15,27 @@ By subscribing to the website, women can choose between on-demand and live strea
 
 ## User Experience (UX)
 
--   ### User stories
+### User stories
 
 As a [type of user], I want [an action] so that [a reason/a value]
 
-    #### First Time Visitor Goals
+#### First Time Visitor Goals
+1. As a First Time Visitor, I want to immediately understand the main purpose of the site and if I belong to the audience it targets.
+2. I want to be able to easily navigate throughout the website in order to find out more about the workout program and its benefits.
+3. I want to find the subscription plan options, what features they include and their respective pricing. 
+4. I want to check their social media links to evaluate their engagement with the public and how trustworthy the company is.
 
-        1. As a First Time Visitor, I want to immediately understand the main purpose of the site and if I belong to the audience it targets.
-        2. I want to be able to easily navigate throughout the website in order to find out more about the workout program and its benefits.
-        3. I want to find the subscription plan options, what features they include and their respective pricing. 
-        4. I want to check their social media links to evaluate their engagement with the public and how trustworthy the company is.
+#### Returning Visitor Goals
+1. As a Returning Visitor, I want to be able to subscribe for a free trial period.
+2. I want to be able to get in touch with the company, in order to address any questions that I may have.
+3. I want to find the links to their social media pages.
+4. I want to sign up for their newsletter, in case there is a special discount to join the program at a lower rate.
 
-    #### Returning Visitor Goals
-
-        1. As a Returning Visitor, I want to be able to subscribe for a free trial period.
-        2. I want to be able to get in touch with the company, in order to address any questions that I may have.
-        3. I want to find the links to their social media pages.
-        4. I want to sign up for their newsletter, in case there is a special discount to join the program at a lower rate.
-
-    #### Frequent User Goals
-        1. As a Frequent User, I want to find information about how to quickly Login to the members-only paid area.
-        2. I want to check any new social media links or links that I do not follow yet.
-        3. I want to sign up to the newsletter so that I am informed about any major updates, events, live stream sessions and/or changes to the website, pricing or organization.
-        4. I also want to be informed of opportunities to upgrade from the Basic plan to the Premium plan at a special loyalty rate.
+#### Frequent User Goals
+1. As a Frequent User, I want to find information about how to quickly Login to the members-only paid area.
+2. I want to check any new social media links or links that I do not follow yet.
+3. I want to sign up to the newsletter so that I am informed about any major updates, events, live stream sessions and/or changes to the website, pricing or organization.
+4. I also want to be informed of opportunities to upgrade from the Basic plan to the Premium plan at a special loyalty rate.
 
 ## Strategy
 ## Scope
