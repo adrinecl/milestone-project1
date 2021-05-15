@@ -20,7 +20,7 @@ body {
     padding-top: 60px;
 }
 
-/* heading and logo */
+/* Headings and logo */
 
 h1 {
     font-family: Quicksand, sans-serif;
@@ -88,6 +88,41 @@ a:link {
     width: 50px;
     flex-grow: 0;
 }
+
+/* How it Works section */
+
+.container-2 {
+    height: 550px;
+    background-color: rgba(197, 186, 171, 1);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px 0;
+}
+
+.container-2 div {
+    padding: 10px;
+    color: #fafafa;
+    font-weight: heavier;
+    text-align: center;
+    flex-grow: 1;
+}
+
+#how-it-works > h2 {
+    background-color: rgba(197, 186, 171, 1);
+    height: 35px;
+    text-align: center;
+}
+
+/* Example videos */
+
+.example-video {
+    height: 50%;
+    width: 50%;
+    overflow: hidden;
+}
+
+
 
 /* Footer */
 
