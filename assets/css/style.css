@@ -163,6 +163,37 @@ a {
     overflow: hidden;
 }
 
+#how-to-plans {
+    height: 150px;
+    background-color: rgba(147, 171, 153, 1);
+    color: #1F0303;
+    text-align: center;
+    padding: 10px 0;
+}
+
+#plans-to-about {
+    height: 150px;
+    background-color: rgba(147, 171, 153, 1);
+    color: #1F0303;
+    text-align: center;
+    padding: 10px 0;
+}
+
+#about-us {
+    height: 150px;
+    background-color: rgba(197, 186, 171, 1);
+    color: #1F0303;
+    text-align: center;
+    padding: 10px 0;
+}
+
+#contact-to-footer {
+    height: 150px;
+    background-color: rgba(197, 186, 171, 1);
+    color: #1F0303;
+    text-align: center;
+    padding: 10px 0;
+}
 
 /* Subscription Plans section */
 
