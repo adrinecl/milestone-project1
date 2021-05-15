@@ -92,7 +92,7 @@ a {
 /* hero video */
 
 #hero {
-    height: 650px;
+    max-height: 650px;
     width: 100%;
     overflow: hidden;
 }
