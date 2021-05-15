@@ -9,7 +9,15 @@
 header {
     background-color: rgba(197, 186, 171, 1);
     position: fixed;
-    width: 100%
+    width: 100%;
+    margin-top: -50px;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    color: #3a3a3a;
+    padding-top: 50px;
 }
 
 /* heading and logo */
