@@ -41,7 +41,7 @@ By subscribing to the website, women can choose between on-demand and live strea
 
 #### Color Scheme
 
-- The colors chosen were dusk rose, beige, sage and dark green. See [Color Palette](**ADD LINK LATER**) here.
+- The colors chosen were dusk rose, beige, sage and dark green. See [Color Palette](https://raw.githubusercontent.com/adrinecl/milestone-project1/master/docs/Paus%20-%20Color%20Palette.png) here.
 - These colors were chosen to represent the following keywords, respectively: feminine, minimalist, calm and nature. They evoke a sense of elegance and appeal to an upscale audience.
 
 #### Typography
