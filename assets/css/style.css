@@ -177,14 +177,6 @@ a {
     width: auto;
 }
 
-#how-to-plans {
-    height: 150px;
-    background-color: rgba(147, 171, 153, 1);
-    color: #1F0303;
-    text-align: center;
-    padding: 10px 0;
-}
-
 /* Subscription Plans section */
 
 .container-3 {
@@ -192,7 +184,7 @@ a {
     background-color: rgba(147, 171, 153, 1);
     color: #1F0303;
     display: flex;
-    justify-content: space-around;
+    justify-content: flex-start;
     align-items: center;
     padding: 10px 0;
 }
@@ -205,6 +197,28 @@ a {
     padding-top: 10px;
 }
 
+#phone-app-mockup {
+    text-align: center;
+}
+
+#paus-app-mockup {
+    height: 50%;
+    width: 50%;
+    margin: 0 auto;
+}
+
+#basic-plan, #premium-plan {
+    height: 250px;
+    width: 250px;
+    background-color: rgba(250, 250, 250, 0.5);
+    color: #1F0303;
+    border-radius: 20px;
+    text-align: center;
+    padding: 10px;
+    margin-right: 40px;
+}
+
+
 /* About Us section */
 
 .container-4 {
@@ -213,6 +227,7 @@ a {
     color: #1F0303;
     display: flex;
     justify-content: space-evenly;
+    flex-direction: row-reverse;
     align-items: center;
     padding: 10px;
 }
@@ -221,7 +236,7 @@ a {
     background-color: rgba(197, 186, 171, 1);
     color: #1F0303;
     text-align: justify;
-    padding: 10px 100px 10px 0;
+    padding: 10px 0 10px 100px;
 }
 
 #about-us-text p,
