@@ -221,6 +221,12 @@ a {
 #box-arrow {
     width: 30px;
     flex-grow: 0;
+    color: #fafafa;
+}
+
+#box-arrow i {
+    font-size: 200%;
+    padding: 30px 15px 0 15px;
 }
 
 div i {
