@@ -68,6 +68,10 @@ header:hover .navbar,
     text-decoration: underline;
 }
 
+.login i {
+    padding: 0 15px;
+}
+
 h1 {
     font-family: Quicksand, sans-serif;
     font-size: xx-large;
@@ -114,7 +118,7 @@ a {
     height: 100px;
     background-color: rgba(145, 118, 106, 1);
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     align-items: center;
     padding: 10px 0;
 }
@@ -132,10 +136,17 @@ a {
     border-left: 1px solid rgba(197, 186, 171, 1);
 }
 
-.box-arrow {
-    width: 50px;
+#box-arrow {
+    width: 30px;
     flex-grow: 0;
 }
+
+div i {
+    padding-bottom: 15px;
+    font-size: 150%;
+    font-weight: normal;
+}
+
 
 /* How it Works section */
 
