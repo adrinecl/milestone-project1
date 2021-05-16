@@ -328,8 +328,8 @@ div i {
 
 #basic-plan,
 #premium-plan {
-    height: 450px;
-    width: 250px;
+    height: 80%;
+    width: 30%;
     background-color: rgba(250, 250, 250, 0.5);
     color: #1F0303;
     border-radius: 20px;
