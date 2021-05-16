@@ -25,6 +25,23 @@ body {
     padding-top: 66px;
 }
 
+/* Background colors of sections */
+
+#home {
+    background-color: rgba(145, 118, 106, 1);
+    width: 100%;
+}
+
+#how-it-works, #about-us {
+    background-color: rgba(197, 186, 171, 1);
+    width: 100%;
+}
+
+#subscription-plans, #contact {
+    background-color: rgba(147, 171, 153, 1);
+    width: 100%;
+}
+
 /* Headings and logo */
 
 .container-logo {
