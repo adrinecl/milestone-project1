@@ -35,12 +35,14 @@ body {
 #how-it-works,
 #about-us {
     background-color: rgba(197, 186, 171, 1);
+    padding-top: 140px;
     width: 100%;
 }
 
 #subscription-plans,
 #contact {
     background-color: rgba(147, 171, 153, 1);
+    padding-top: 140px;
     width: 100%;
 }
 
@@ -278,8 +280,6 @@ div i {
     padding: 10px 0 10px 100px;
 }
 
-
-
 /* Example videos */
 
 .example-video {
@@ -399,11 +399,36 @@ div i {
     min-height: 100vh;
     background-color: rgba(147, 171, 153, 1);
     color: #1F0303;
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
+    display: block;
     padding: 10px;
 }
+
+#contact-photo {
+    height: 50%;
+    width: 50%;
+    margin: 0 auto;
+    padding: 50px 50px;
+    float: left;
+}
+
+#contact form {
+    display: grid;
+    gap: 10px 10px;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+    grid-template-areas:
+        "fname lname"
+        "subject email"
+        "message message"
+        "controls controls";
+}
+
+#message { grid-area: message; }
+#controls { grid-area: controls; }
+#fname { grid-area: fname; }
+#lname { grid-area: lname; }
+#subject { grid-area: subject; }
+#email { grid-area: email; }
 
 /* Footer */
 
