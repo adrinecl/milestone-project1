@@ -18,21 +18,26 @@
 <body>
     <header>
         <div class="container-logo">
-            <div class="logo"><a href="index.html">
+            <div class="logo"><a href="index.html#">
                     <h1 id="logo">Paus</h1>
                 </a>
             </div>
             <div class="login">
-                <a href="#">Login</a>
-                <i class="far fa-user"></i>
+                <input type="checkbox" id="login-toggle" class="login-toggle"/>
+                <label for="login-toggle"><i class="far fa-user"></i>Login</label>
+                <form class="login-popup" method="POST">
+                    <input type="email" placeholder="E-mail" required />
+                    <input type="password" placeholder="Password" required />
+                    <input type="submit" value="Log in" required />
+                </form>
             </div>
         </div>
         <div class="navbar">
-            <a href="index.html">Home</a>
-            <a href="#how-it-works">How it works</a>
-            <a href="#subscription-plans">Subscribe</a>
-            <a href="#about">About Us</a>
-            <a href="#contact">Contact</a>
+            <a href="index.html#">Home</a>
+            <a href="index.html#how-it-works">How it works</a>
+            <a href="index.html#subscription-plans">Subscribe</a>
+            <a href="index.html#about">About Us</a>
+            <a href="index.html#contact">Contact</a>
         </div>
     </header>
     <section id="home">

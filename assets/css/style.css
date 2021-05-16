@@ -31,6 +31,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin-left: 262px;
 }
 
 .container-logo div {
@@ -43,15 +44,78 @@ body {
 }
 
 .login {
-    margin-right: 30px;
+    margin-right: 10px;
+    position: relative;
+}
+
+.login-toggle {
+    display: none;
+    padding-right: 10px;
+}
+
+.login-popup {
+    background: rgba(147, 171, 153, 0.9);
+    border: 1px solid rgba(108, 135, 116, 1);
+    border-top: 0;
+    display: none;
+    padding: 20px;
+    position: absolute;
+    right: 0;
+}
+
+.login-popup input[type="email"],
+.login-popup input[type="password"] {
+    background: rgba(250, 250, 250, 0.75);
+    font-size: medium;
+    margin-bottom: 10px;
+    padding: 5px;
+    text-align: center;
+    width: 200px;
+}
+
+.login-popup input[type="submit"] {
+    background: rgba(250, 250, 250, 0.5);
+    color: rgba(0, 0, 0, 0.65);
+    font-size: medium;
+    padding: 5px;
+    width: 100%;
+}
+
+.login-popup input[type="submit"]:hover {
+    background: rgba(250, 250, 250, 0.25);
+}
+
+.login-toggle + label {
+    border-left: 1px solid transparent;
+    border-right: 1px solid transparent;
+    display: block;
+    height: 66px;
+    line-height: 66px;
+    padding: 0 20px;
+    text-align: right;
+    width: 210px;
+}
+
+.login-toggle + label:hover {
+    color: #fafafaba;
+}
+
+.login-toggle:checked + label {
+    background: rgba(108, 135, 116, 1);
+    border-left: 1px solid rgba(0, 0, 0, 0.2);
+    border-right: 1px solid rgba(0, 0, 0, 0.2);
+    color: #000000ba;
+}
+
+.login-toggle:checked ~ .login-popup {
+    display: block;
 }
 
 .navbar {
     display: none;
 }
 
-header:hover .navbar,
-.navbar:hover {
+header:hover .navbar {
     display: flex;
     background-color: rgba(250, 250, 250, 0.9);
     justify-content: center;
@@ -69,7 +133,8 @@ header:hover .navbar,
 }
 
 .login i {
-    padding: 0 15px;
+    padding-right: 10px;
+    font-size: 100%;
 }
 
 h1 {
