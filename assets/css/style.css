@@ -34,16 +34,18 @@ body {
 
 #how-it-works,
 #about-us {
-    background-color: rgba(197, 186, 171, 1);
-    padding-top: 140px;
+    min-height: 100vh;
     width: 100%;
+    background-color: rgba(197, 186, 171, 1);
+    padding-top: 100px;
 }
 
 #subscription-plans,
 #contact {
-    background-color: rgba(147, 171, 153, 1);
-    padding-top: 140px;
+    min-height: 100vh;
     width: 100%;
+    background-color: rgba(147, 171, 153, 1);
+    padding-top: 100px;
 }
 
 #footer {
@@ -249,10 +251,10 @@ div i {
 
 .container-2 {
     min-height: 100vh;
-    background-color: rgba(197, 186, 171, 1);
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-around;
+    justify-content: space-evenly;
+    align-content: space-between;
     align-items: center;
     padding: 10px 0;
 }
@@ -260,9 +262,7 @@ div i {
 .container-2>div {
     padding: 10px;
     color: #1F0303;
-    font-weight: heavier;
     text-align: center;
-    flex-grow: 1;
 }
 
 #how-it-works>h2 {
