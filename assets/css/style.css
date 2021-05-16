@@ -53,15 +53,19 @@ body {
 header:hover .navbar,
 .navbar:hover {
     display: flex;
-    background-color: #fafafa;
-    justify-content: space-evenly;
+    background-color: rgba(250, 250, 250, 0.9);
+    justify-content: center;
     align-items: center;
-    margin: 0 auto;
 }
 
 .navbar a {
     color: rgba(145, 118, 106, 1);
     padding: 10px;
+    margin: 0 20px;
+}
+
+.navbar a:hover {
+    text-decoration: underline;
 }
 
 h1 {
