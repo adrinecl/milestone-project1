@@ -229,6 +229,7 @@ a {
 /* Sections */
 
 /* Benefits section */
+/* This section is styled as a flex box with the Font Awesome icons as metaphors for the keywords and an arrow down to suggest to keep scrolling. The arrow has also a link to shortcut to the next section. */
 
 .container-1 {
     height: 100px;
@@ -242,7 +243,6 @@ a {
 .container-1 div {
     padding: 10px;
     color: #fafafa;
-    font-weight: heavier;
     text-align: center;
     flex-grow: 1;
 }
