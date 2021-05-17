@@ -10,7 +10,7 @@ The name "Paus" comes from Swedish and it has several alternative translations a
 
 By subscribing to the website, women can choose between on-demand and live stream safe workouts curated specially for each stage of pregnancy. The workout are mainly inpired by yoga, pilates and calisthenics, as well as other activities such as meditation guidance, relaxation tips, mini courses for labor preparation and other relevant information. The live streams are a great way to socialize and keep themselves fit.
 
-![Responsive Mockup](https://raw.githubusercontent.com/adrinecl/milestone-project1/master/docs/wireframes/paus-mockup-all-devices.png)
+[Responsive Mockup](https://raw.githubusercontent.com/adrinecl/milestone-project1/master/docs/wireframes/paus-mockup-all-devices.png)
 
 
 ## User Experience (UX)
@@ -183,9 +183,7 @@ The website features the benefits of joining the prenatal / postpartum exercise 
 
 ## Responsiveness
 
-- The responsiveness of the website was tested using the Chrome device tools (on Chrome DevTools), to check the experience for different screen sizes.
-- The tests were performed with the standard breakpoints in Chrome, i.e., 320px, 375px, 425px, 768px, 1024px, 1440px, corresponding to small mobile screens up to large laptop screens.
-- In addition to the standard breakpoints, additional sizes between these were tested by manually entering screen sizes, to make sure it works well on any device.
+- Responsive on all devices and screens sizes available on Chrome Device Mode (Chrome DevTools) for simulaton.
 
 ## Accessibility
 
@@ -242,11 +240,19 @@ The website features the benefits of joining the prenatal / postpartum exercise 
 ### Validator Testing
 
 #### HTML
-No errors were returned when passing through the official [W3C Markup Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fadrinecl.github.io%2Fmilestone-project1%2F).
+No errors were returned when passing through the official [W3C Markup Validator]().
+- [W3C Markup Validator Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fadrinecl.github.io%2Fmilestone-project1%2F).
 #### CSS
-No errors were found when passing through the official [W3C CSS Validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fadrinecl.github.io%2Fmilestone-project1%2F).
+No errors were found when passing through the official [W3C CSS Validator]().
+- [W3C CSS Validator Results](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fadrinecl.github.io%2Fmilestone-project1%2F).
 
-### Fixed Bugs throught the project
+### Test Cases
+
+Add screenshots
+
+### Fixed Bugs
+
+Throughout the project some of the following bugs were fixed:
 
 - Occurences of missing end tags, e.g., </section> and </p>.
 - Invalid property value in CSS rule: "heavier" as font-weight instead of "bolder".
@@ -257,6 +263,12 @@ No errors were found when passing through the official [W3C CSS Validator](https
 - Subscription plans at the moment do not lead to the billing page. It is a future feature.
 - Contact form confirmation page should be changed to a JavaScript message instead, in order to keep the visitor in the same page as much as possible to make it easier to make a decision to join a subscription plan.
 - Newsletter opt-in confirmation page should be changed to a JavaScript message instead, in order to keep the visitor in the same page as much as possible to make it easier to make a decision to join a subscription plan.
+
+### Supported Screens and Browsers
+
+- The responsiveness of the website was tested using the Chrome Device Mode (on Chrome DevTools), to check the experience for different screen sizes.
+- The tests were performed with the standard breakpoints in Chrome, i.e., 320px, 375px, 425px, 768px, 1024px, 1440px, corresponding to small mobile screens up to large laptop screens.
+- In addition to the standard breakpoints, additional sizes between these were tested by manually entering screen sizes, to make sure it works well on any device.
 
 ## Deployment
 
