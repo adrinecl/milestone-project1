@@ -281,6 +281,8 @@ Throughout the project some of the following bugs were fixed:
 - The responsiveness of the website was tested using the Chrome Device Mode (on Chrome DevTools), to check the experience for different screen sizes.
 - The tests were performed with the standard breakpoints in Chrome, i.e., 320px, 375px, 425px, 768px, 1024px, 1440px, corresponding to small mobile screens up to large laptop and desktop screens.
 - In addition to the standard breakpoints, additional sizes between these were tested by manually entering screen sizes, to make sure it works well on any device.
+- The website was tested in Chrome, Firefox and Safari. This cover the most popular browsers in use, on desktops, laptops, and mobile. Since the included browser on Windows, Edge, is also based on the Chrome browser, it will generally work the same as Chrome.
+- The videos have "Your browser does not support HTML5 video" in case the visitor has a very old browser.
 
 ## Deployment
 
