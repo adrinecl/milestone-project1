@@ -20,8 +20,7 @@ By subscribing to the website, women can choose between on-demand and live strea
 
 As a [type of user], I want [an action] so that [a reason/a value]
 
-<details>
-<summary>First Time Visitor Goals</summary>
+**First Time Visitor Goals**
 1. As a First Time Visitor, I want to immediately understand the main purpose of the site and if I belong to the audience it targets.
 2. I want to be able to easily navigate throughout the website in order to find out more about the workout program and its benefits.
 3. I want to find the subscription plan options, what features they include and their respective pricing. 
@@ -31,7 +30,7 @@ As a [type of user], I want [an action] so that [a reason/a value]
 7. I want to sign up for their newsletter, in case there is a special discount to join the program at a lower rate.
 
 Future user stories should include visitors that are returning to the website, but have not subscribed yet and the paid members, who will access the main website to get to the paid members-only dedicated area
-</details>
+
 
 #### Strategy
 
