@@ -10,7 +10,7 @@ The name "Paus" comes from Swedish and it has several alternative translations a
 
 By subscribing to the website, women can choose between on-demand and live stream safe workouts curated specially for each stage of pregnancy. The workout are mainly inpired by yoga, pilates and calisthenics, as well as other activities such as meditation guidance, relaxation tips, mini courses for labor preparation and other relevant information. The live streams are a great way to socialize and keep themselves fit.
 
-![Responsive Mockup](**ADD LINK LATER**)
+![Responsive Mockup](https://raw.githubusercontent.com/adrinecl/milestone-project1/master/docs/wireframes/paus-mockup-all-devices.png)
 
 
 ## User Experience (UX)
@@ -99,7 +99,7 @@ This section illustrates the first draft of the website and how the information 
 
 #### Color Scheme
 
-- The colors chosen were dusk rose, beige, sage and dark green. ![Color Palette](https://raw.githubusercontent.com/adrinecl/milestone-project1/master/docs/Paus%20-%20Color%20Palette.png)
+- The colors chosen were dusk rose, beige, sage and dark green. ![Color Palette](https://raw.githubusercontent.com/adrinecl/milestone-project1/master/docs/paus-color-palette.png)
 - These colors were chosen to represent the following keywords, respectively: feminine, minimalist, calm and nature. They evoke a sense of elegance and appeal to an upscale audience.
 
 #### Typography
@@ -273,7 +273,6 @@ These are the steps:
 3. Scroll down the Settings page until you locate the "GitHub Pages" Section on the menu to the left.
 4. Under "Source", click the "Branch" dropdown and select "Master" instead of "None".
 5. The page will automatically refresh and the link will be shown on top.
-
 
 ## Credits
 
