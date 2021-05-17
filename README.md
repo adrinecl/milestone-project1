@@ -53,6 +53,8 @@ The following features will be included in the current project's scope:
 The main items of the website will be included as sections within one page (scrollable single page).
 The scrollable single page is a good option to prevent visitors to navigate away, reducing the number of steps for a potential customer to make a decision to join the workout program.
 
+A fixed bar at the top with the logo and login section will be used to facilitate finding the navbar. The navbar will hide when scrolling and reading the sections, but appear when hovering, providing a shortcut to other sections of the website independently of where the visitor is browsing at the moment.
+
 The design should be feminine, calm, modern and signal connection to nature and wellness.
 
 - Home: The visitor should be able to get a feel for and identify the target audience and product/service immediately. This will be achieved by a big hero video and a keywords of the benefits that the program offers, with icons that create metaphors.
@@ -67,11 +69,16 @@ The design should be feminine, calm, modern and signal connection to nature and 
 
 - Footer: links to social media, newsletter opt-in form and shortcut to go back to the top after all the scrolling.
 
-In the future, other features can be implemented, like the paid members-only page. For more information on future features, see the Future Features section.
+Other features can be implemented, like the paid members-only page. For more information on future features, see the "Future Features" section.
 
 ## Structure
 
+
+
 ## Skeleton
+
+This section illustrates the first draft of the website and how the information will be presented.
+
 ### Wireframes
 
 - A first draft was sketched by hand on paper and then Balsamiq was used for the final wireframes.
