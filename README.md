@@ -47,6 +47,27 @@ In the future, after development of the members-only section, the existing membe
 
 ## Scope
 
+The scope defines which features will be implemented and which will not be implemented at this stage. 
+The following features will be included in the current project's scope:
+
+The main items of the website will be included as sections within one page (scrollable single page).
+The scrollable single page is a good option to prevent visitors to navigate away, reducing the number of steps for a potential customer to make a decision to join the workout program.
+
+The design should be feminine, calm, modern and signal connection to nature and wellness.
+
+- Home: The visitor should be able to get a feel for and identify the target audience and product/service immediately. This will be achieved by a big hero video and a keywords of the benefits that the program offers, with icons that create metaphors.
+
+- How it works: The visitor should know what to expect from the program and the steps to enroll for the program. This section includes example imagery to grab the attention of website visitors.
+
+- Subscription plans: This section presents the membership options and compares them. The comparison should include features, pricing and if any free trials are available and for how long. This is also a good place to promote the download of the optional mobile app, increasing value for prospective members that are considering joining by showing that the program is convenient and available on the go.
+
+- About Us: It should provide information about the company.
+
+- Contact: This section provides a form to contact the company.
+
+- Footer: links to social media, newsletter opt-in form and shortcut to go back to the top after all the scrolling.
+
+In the future, other features can be implemented, like the paid members-only page. For more information on future features, see the Future Features section.
 
 ## Structure
 
@@ -54,7 +75,7 @@ In the future, after development of the members-only section, the existing membe
 ### Wireframes
 
 - A first draft was sketched by hand on paper and then Balsamiq was used for the final wireframes.
-![Balsamiq wireframes](https://raw.githubusercontent.com/adrinecl/milestone-project1/master/docs/wireframes/paus-wireframe.png).
+[Balsamiq wireframes](https://raw.githubusercontent.com/adrinecl/milestone-project1/master/docs/wireframes/paus-wireframe.png).
 
 ## Surface
 ### Design
