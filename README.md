@@ -205,10 +205,16 @@ The website features the benefits of joining the prenatal / postpartum exercise 
 8. [GitHub](https://github.com/)
     - GitHub is used to get the initial project template from Code Institute's repository. Then all of the incremental progress was documented through commits pushed to this ![GitHub repository](https://github.com/adrinecl/milestone-project1), where you can also find the code and files that belong the project. After being pushed from Git, the files are updated and the ![commit history](https://github.com/adrinecl/milestone-project1/commits/master) is available here. The website was also deployed to GitHub pages for the live demo.
 
-9. [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
+9. [Facebook Design](https://design.facebook.com/toolsandresources/devices/)
+   - To get the iphone mockup image.
+
+10. [Sketch](https://www.sketch.com/)
+   - To create the mobile app mockup.
+
+11. [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
    - Chrome DevTools is a set of web developer tools built directly into the Google Chrome browser. Used mainly for inspecting elements, in order to fix layout issues and some other bugs.
 
-10. [Am I Responsive?](http://ami.responsivedesign.is/)
+12. [Am I Responsive?](http://ami.responsivedesign.is/)
    - This website was used to check responsiveness and for the mockup generation in this README file.
 
 
