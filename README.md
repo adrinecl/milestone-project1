@@ -1,6 +1,8 @@
 # Paus Website
 
 [View the live project here.](https://adrinecl.github.io/milestone-project1/)
+
+
 ![Responsive Mockup](https://github.com/adrinecl/milestone-project1/blob/master/docs/images/paus-mockup-all-devices.png)
 
 ## About the Website
@@ -11,14 +13,15 @@ The name "Paus" comes from Swedish and it has several alternative translations a
 
 By subscribing to the website, women can choose between on-demand and live stream safe workouts curated specially for each stage of pregnancy. The workout are mainly inpired by yoga, pilates and calisthenics, as well as other activities such as meditation guidance, relaxation tips, mini courses for labor preparation and other relevant information. The live streams are a great way to socialize and keep themselves fit.
 
+## Planning phase
+### User Experience (UX)
 
-## User Experience (UX)
-
-### User stories
+#### User stories
 
 As a [type of user], I want [an action] so that [a reason/a value]
 
-#### First Time Visitor Goals
+<details>
+<summary>First Time Visitor Goals</summary>
 1. As a First Time Visitor, I want to immediately understand the main purpose of the site and if I belong to the audience it targets.
 2. I want to be able to easily navigate throughout the website in order to find out more about the workout program and its benefits.
 3. I want to find the subscription plan options, what features they include and their respective pricing. 
@@ -28,23 +31,27 @@ As a [type of user], I want [an action] so that [a reason/a value]
 7. I want to sign up for their newsletter, in case there is a special discount to join the program at a lower rate.
 
 Future user stories should include visitors that are returning to the website, but have not subscribed yet and the paid members, who will access the main website to get to the paid members-only dedicated area
+</details>
 
-## Strategy
+#### Strategy
 
-### Project Goals
+<details>
+<summary>Project Goals</summary>
 The purpose of this project is to build a static front-end site, using mainly HTML5 and CSS3. The website should provide enough data in an aesthetically pleasing manner, while helping users achieve their goals. In this project, the main goal is to make sure that the user learns about a workout program for expecting and postpsartum mothers offered by the fictional company "Paus" and joins one of the subscription plans. Therefore, the project can create value for both the customers and the company, by providing an interesting and valuable product/service for the user and generating income for the company.
-
-### Business Goals
+</details>
+<details>
+<summary>Business Goals</summary>
 The main goal of the website is to increase sales of subscriptions to attract paid members and keep existing members by having a website with enough information for a visitor to see value and make a decision to join. This is the first ever developed website for "Paus".
 
-Audience: the website target English-speaking expecting or postpartum mothers in the age range 18-45 worldwide, since all classed are available online both on-demand and live stream, depending on the subscription plan. The target audience has busy schedules. Currently they are looking for alternatives to stay active at home due to self isolation / lockdown due to the current COVID-19 pandemic, since pregnant and postpartum women are part of a risk group.
-
-### Customer Goals
+**Audience:** the website target English-speaking expecting or postpartum mothers in the age range 18-45 worldwide, since all classed are available online both on-demand and live stream, depending on the subscription plan. The target audience has busy schedules. Currently they are looking for alternatives to stay active at home due to self isolation / lockdown due to the current COVID-19 pandemic, since pregnant and postpartum women are part of a risk group.
+</details>
+<details>
+<summary>Customer Goals</summary>
 Prospective members / first website visitors: get to know the company "Paus" and the benefits of the workout program, compare plans and potentially subscribe to one of the options. 
 
 In the future, after development of the members-only section, the existing members will wish to access the program through the website.
 
-## Scope
+#### Scope
 
 The scope defines which features will be implemented and which will not be implemented at this stage. 
 The following features will be included in the current project's scope:
@@ -70,7 +77,7 @@ The design should be feminine, calm, modern and signal connection to nature and 
 
 Other features can be implemented, like the paid members-only page. For more information on future features, see the "Future Features" section.
 
-## Structure
+#### Structure
 
 A single page so the user can keep on the website and not navigate away, providing few steps for the user to make a decision to subscribe to a workout plan.
 
@@ -84,32 +91,35 @@ The footer shows the logo and provides important information about social media 
 
 The user is greeted with a nice and big hero video.
 
-## Skeleton
+#### Skeleton
 
 This section illustrates the first draft of the website and how the information will be presented.
 
-### Wireframes
+##### Wireframes
 
 - A first draft was sketched by hand on paper and then Balsamiq was used for the final wireframes.
 [Balsamiq wireframes](https://raw.githubusercontent.com/adrinecl/milestone-project1/master/docs/wireframes/paus-wireframe.png).
 
-## Surface
-### Design
+#### Surface
+##### Design
 
-#### Color Scheme
+###### Color Scheme
 
 - The colors chosen were dusk rose, beige, sage and dark green. ![Color Palette](https://raw.githubusercontent.com/adrinecl/milestone-project1/master/docs/paus-color-palette.png)
 - These colors were chosen to represent the following keywords, respectively: feminine, minimalist, calm and nature. They evoke a sense of elegance and appeal to an upscale audience.
 
-#### Typography
+###### Typography
 
 - The following fonts were chosen for this project: "Quicksand" for the logo and headings and "Montserrat" for the body, with the alternative of sans-serif as back-up. Available at [Google Fonts](https://fonts.google.com/specimen/Quicksand?query=Quicksand#standard-styles).
 
-#### Imagery
+###### Imagery
 
 - The photos and videos used should be high quality and modern, while conveying a sense of warmth and comfort. This way it can depict that the workout program can be easily done at home. The videos and photos should portray expecting mothers exercising, meditating and just a sense of wellbeing that they are fully enjoying their pregnancies.
 
-## Features 
+</details>
+
+## Implementation phase
+### Features 
 
 The website features the benefits of joining the prenatal / postpartum exercise program. Visitors can understand how the program works and see the different plans available. There is a basic and a premium plan at different price rates and it is possible to compare, in order for the visitor to pick the most suitable option. There is also a call to action to download the mobile app for more convenient access to the exercises while on the go. 
 
@@ -166,7 +176,8 @@ The website features the benefits of joining the prenatal / postpartum exercise 
 
 ![Footer](**ADD LINK LATER**)
 
-### Future features
+<details>
+<summary>Future features</summary>
 
 - Payment form with credit card processing information.
 - The confirmation of processing the billing info should send an e-amil for the visitor to create an account.
@@ -179,6 +190,7 @@ The website features the benefits of joining the prenatal / postpartum exercise 
 - A FAQ (Frequently asked questions) page would be good to have.
 - Other nice features would be a blog that could add value to branding and search engine optimization (SEO).
 - Testimonials could also add value as social proof and encourage adoption to the workout program.
+</details>
 
 ## Responsiveness
 
@@ -195,7 +207,8 @@ The website features the benefits of joining the prenatal / postpartum exercise 
 - [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 
 
-### Frameworks, Libraries & Programs Used
+<details>
+<summary>Frameworks, Libraries & Programs Used</summary>
 
 1. [Balsamiq](https://balsamiq.com/)
     - Balsamiq was used in the conception and design process to create the [wireframes](https://raw.githubusercontent.com/adrinecl/milestone-project1/master/docs/wireframes/paus-wireframe.png).
@@ -232,7 +245,7 @@ The website features the benefits of joining the prenatal / postpartum exercise 
 
 12. [Am I Responsive?](http://ami.responsivedesign.is/)
    - This website was used to check responsiveness and for the mockup generation in this README file.
-
+</details>
 
 ## Testing
 
@@ -247,7 +260,10 @@ No errors were found when passing through the official [W3C CSS Validator]().
 
 ### Test Cases
 
-Add screenshots
+<details>
+<summary>Add screenshots</summary>
+</details>
+
 
 ### Fixed Bugs
 
@@ -273,11 +289,13 @@ Throughout the project some of the following bugs were fixed:
 
 ### Gitpod
 
+ADD
+
 ### Github Pages
 
 The project was deployed to GitHub Pages.
 
-These are the steps:
+These are the steps to deploy to GitHub Pages:
 
 1. Log in to GitHub and locate the GitHub Repository one wishes to deploy to GitHub Pages.
 2. At the top right of the Repository (not top of page), locate the "Settings" Button on the menu.
@@ -304,12 +322,12 @@ Main sources used for consultation and troubleshooting:
 3. [CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - For understanding how flex boxes work.
 
-### Content
+#### Content
 
 - All design choices, color palette and concept created by the developer.
 - All content was written by the developer.
 
-### Media
+#### Media
 
 - The videos and photos used on the website are free to use. Special thanks and credit goes to Yan Krukov, photographer and videographer, for the amazing and professional videos and photos available at [Pexels](https://www.pexels.com).
 
