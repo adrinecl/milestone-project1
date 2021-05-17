@@ -76,6 +76,15 @@ body {
     width: 100%;
 }
 
+@media only screen and (max-width: 767px) {
+    #how-it-works,
+    #about-us,
+    #subscription-plans,
+    #contact {
+        padding-top: 40px;
+    }
+}
+
 /* Headings and logo */
 
 .container-logo {
@@ -213,9 +222,13 @@ a {
     color: #fafafa;
 }
 
-@media only screen and (max-width: 799px) {
+@media only screen and (max-width: 767px) {
     .container-logo {
         margin-left: 0;
+    }
+
+    .login-toggle+label {
+        width: auto;
     }
 
     header:hover .navbar {
@@ -279,14 +292,32 @@ div i {
     font-weight: normal;
 }
 
-@media only screen and (max-width: 799px) {
+@media only screen and (max-width: 767px) {
+    .container-1 {
+        padding: 0;
+    }
+
+    .container-1 h3 {
+        display: none;
+    }
+
+    .container-logo {
+        margin-left: 0;
+    }
+
+    .login-toggle+label {
+        width: auto;
+    }
+
+    header:hover .navbar {
+        display: none;
+    }
+
     #box-3 {
         border-left: 1px solid rgba(197, 186, 171, 1);
     }
 
-    #box-arrow-down {
-        display: none;
-    }
+    #box-arrow-down { display: none; }
 }
 
 /* How it Works section */
@@ -296,7 +327,6 @@ This makes it easier for smaller screens, without having to worry about adapting
 
 .container-2 {
     margin: 0 auto;
-    min-height: 100vh;
     width: 80%;
 }
 
@@ -345,7 +375,7 @@ This makes it easier for smaller screens, without having to worry about adapting
     margin-bottom: 10px;
 }
 
-@media only screen and (max-width: 799px) {
+@media only screen and (max-width: 767px) {
     #how-text {
         grid-template-columns: 1fr;
         grid-template-rows: auto auto auto;
@@ -399,17 +429,14 @@ This makes it easier for smaller screens, without having to worry about adapting
     grid-area: D;
 }
 
-@media only screen and (max-width: 1499px) {
+@media only screen and (max-width: 1439px) {
     #how-examples {
         grid-template-columns: 1fr 1fr 1fr;
         grid-template-areas: "A B C";
     }
 
-    #example-4 {
-        display: none;
-    }
+    #example-4 { display: none; }
 }
-
 
 @media only screen and (max-width: 1199px) {
     #how-examples {
@@ -417,31 +444,15 @@ This makes it easier for smaller screens, without having to worry about adapting
         grid-template-areas: "A B";
     }
 
-    #example-3 {
-        display: none;
-    }
-
-    #example-4 {
-        display: none;
-    }
+    #example-3 { display: none; }
+    #example-4 { display: none; }
 }
 
-@media only screen and (max-width: 799px) {
-    #example-1 {
-        display: none;
-    }
-
-    #example-2 {
-        display: none;
-    }
-
-    #example-3 {
-        display: none;
-    }
-
-    #example-4 {
-        display: none;
-    }
+@media only screen and (max-width: 767px) {
+    #example-1 { display: none; }
+    #example-2 { display: none; }
+    #example-3 { display: none; }
+    #example-4 { display: none; }
 }
 
 /* Subscription Plans section */
@@ -615,7 +626,7 @@ This makes it easier for smaller screens, without having to worry about adapting
     }
 }
 
-@media only screen and (max-width: 799px) {
+@media only screen and (max-width: 767px) {
     .container-3 {
         grid-template-columns: 1fr;
         grid-template-rows: auto auto auto auto;
@@ -696,7 +707,7 @@ This makes it easier for smaller screens, without having to worry about adapting
     }
 }
 
-@media only screen and (max-width: 799px) {
+@media only screen and (max-width: 767px) {
     .container-4 {
         grid-template-columns: 1fr;
         grid-template-rows: auto 1fr;
@@ -705,9 +716,7 @@ This makes it easier for smaller screens, without having to worry about adapting
             "text";
     }
 
-    #about-us-photo {
-        display: none;
-    }
+    #about-us-photo { display: none; }
 }
 
 /* Contact section */
@@ -816,6 +825,21 @@ This makes it easier for smaller screens, without having to worry about adapting
     }
 }
 
+@media only screen and (max-width: 767px) {
+    #contact form {
+        grid-template-columns: 1fr;
+        grid-template-rows: auto auto auto auto auto auto auto;
+        grid-template-areas:
+            "title"
+            "fname"
+            "lname"
+            "subject"
+            "email"
+            "message"
+            "controls";
+    }
+}
+
 /* Footer */
 /* The Footer section includes a flex box to organize all of the elements such as logo, social media links, newsletter opt-in, shortcut arrow to the top of the page. */
 
@@ -896,17 +920,28 @@ This makes it easier for smaller screens, without having to worry about adapting
 }
 
 @media only screen and (max-width: 1199px) {
-    #footer-about {
-        display: none;
-    }
+    #footer-about { display: none; }
+    #box-arrow-up { display: none; }
+}
 
-    #box-arrow-up {
-        display: none;
+@media only screen and (max-width: 767px) {
+    .container-footer {
+        flex-direction: column;
     }
 }
 
-@media only screen and (max-width: 799px) {
-    .container-footer {
-        flex-direction: column;
+@media only screen and (max-width: 374px) {
+    #newsletter-signup h2 {
+        font-size: 1em;
+    }
+
+    #newsletter-signup input[type="email"],
+    #newsletter-signup input[type="submit"] {
+        font-size: 1em;
+    }
+
+    #newsletter-signup input[type="email"] {
+        width: 150px;
+    }
     }
 }
