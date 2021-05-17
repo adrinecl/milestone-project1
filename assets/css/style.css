@@ -249,6 +249,9 @@ div i {
 
 /* How it Works section */
 
+/* The How it works section has two columns, using a grid layout to position the columns.
+This makes it easier for smaller screens, without having to worry about adapting the code too much.*/
+
 .container-2 {
     margin: 0 auto;
     min-height: 100vh;
@@ -277,9 +280,17 @@ div i {
     text-align: justify;
 }
 
-#how-text h2 { grid-area: title; }
-#how-text-info { grid-area: info; }
-#how-text-list { grid-area: list; }
+#how-text h2 {
+    grid-area: title;
+}
+
+#how-text-info {
+    grid-area: info;
+}
+
+#how-text-list {
+    grid-area: list;
+}
 
 #how-text h2 {
     margin-bottom: 40px;
@@ -319,10 +330,21 @@ div i {
     width: auto;
 }
 
-#example-1 { grid-area: A; }
-#example-2 { grid-area: B; }
-#example-3 { grid-area: C; }
-#example-4 { grid-area: D; }
+#example-1 {
+    grid-area: A;
+}
+
+#example-2 {
+    grid-area: B;
+}
+
+#example-3 {
+    grid-area: C;
+}
+
+#example-4 {
+    grid-area: D;
+}
 
 /* Subscription Plans section */
 
@@ -454,14 +476,37 @@ div i {
     padding: 10px;
 }
 
-#contact img { grid-area: photo }
-#contact h2 { grid-area: title }
-#fname { grid-area: fname; }
-#lname { grid-area: lname; }
-#subject { grid-area: subject; }
-#email { grid-area: email; }
-#message { grid-area: message; }
-#send { grid-area: controls; }
+#contact img {
+    grid-area: photo
+}
+
+#contact h2 {
+    grid-area: title
+}
+
+#fname {
+    grid-area: fname;
+}
+
+#lname {
+    grid-area: lname;
+}
+
+#subject {
+    grid-area: subject;
+}
+
+#email {
+    grid-area: email;
+}
+
+#message {
+    grid-area: message;
+}
+
+#send {
+    grid-area: controls;
+}
 
 #contact h2 {
     text-align: center;
@@ -503,7 +548,8 @@ div i {
 .container-footer div {
     padding: 10px;
     color: #fafafa;
-    background-color: rgba(108, 135, 116, 1);;
+    background-color: rgba(108, 135, 116, 1);
+    ;
     font-weight: heavier;
     text-align: center;
     flex-grow: 1;
