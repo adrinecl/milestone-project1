@@ -250,34 +250,46 @@ div i {
 /* How it Works section */
 
 .container-2 {
+    margin: 0 auto;
     min-height: 100vh;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-evenly;
-    align-content: flex-start;
-    align-items: center;
-    padding: 10px 0;
-}
-
-.container-2>div {
-    padding: 10px;
-    color: #1F0303;
-    text-align: center;
-}
-
-#how-it-works>h2 {
-    background-color: rgba(197, 186, 171, 1);
-    color: #1F0303;
-    height: 35px;
-    text-align: center;
-    padding-top: 10px;
+    width: 80%;
 }
 
 #how-text {
-    background-color: rgba(197, 186, 171, 1);
-    color: #1F0303;
+    display: grid;
+    gap: 10px 60px;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto auto;
+    grid-template-areas:
+        "title title"
+        "info list";
     text-align: justify;
-    padding: 10px 0 10px 100px;
+}
+
+#how-text {
+    display: grid;
+    gap: 10px 60px;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto auto;
+    grid-template-areas:
+        "title title"
+        "info list";
+    text-align: justify;
+}
+
+#how-text h2 { grid-area: title; }
+#how-text-info { grid-area: info; }
+#how-text-list { grid-area: list; }
+
+#how-text h2 {
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+#how-text-info p,
+#how-text-list p,
+#how-text-list ol {
+    margin-bottom: 10px;
 }
 
 /* Example videos */
