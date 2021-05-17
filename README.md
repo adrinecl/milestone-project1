@@ -173,7 +173,8 @@ The website features the benefits of joining the prenatal / postpartum exercise 
 
 ## Responsiveness
 
-
+- The responsiveness of the website was tested using the Chrome device tools (on Chrome DevTools), to check the experience for different screen sizes.
+- The tests were performed with the standard breakpoints in Chrome, i.e., 320px, 375px, 425px, 768px, 1024px, 1440px, corresponding to small mobile screens up to large laptop screens.
 
 ## Accessibility
 
@@ -230,9 +231,9 @@ The website features the benefits of joining the prenatal / postpartum exercise 
 ### Validator Testing
 
 #### HTML
-No errors were returned when passing through the official [W3C Markup Validator](**ADD LINK**).
+No errors were returned when passing through the official [W3C Markup Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fadrinecl.github.io%2Fmilestone-project1%2F).
 #### CSS
-No errors were found when passing through the official [W3C CSS Validator](**ADD LINK**).
+No errors were found when passing through the official [W3C CSS Validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fadrinecl.github.io%2Fmilestone-project1%2F).
 
 ### Fixed Bugs throught the project
 
@@ -251,6 +252,16 @@ No errors were found when passing through the official [W3C CSS Validator](**ADD
 ### Gitpod
 
 ### Github Pages
+
+The project was deployed to GitHub Pages.
+
+These are the steps:
+
+1. Log in to GitHub and locate the GitHub Repository one wishes to deploy to GitHub Pages.
+2. At the top right of the Repository (not top of page), locate the "Settings" Button on the menu.
+3. Scroll down the Settings page until you locate the "GitHub Pages" Section on the menu to the left.
+4. Under "Source", click the "Branch" dropdown and select "Master" instead of "None".
+5. The page will automatically refresh and the link will be shown on top.
 
 
 ## Credits
