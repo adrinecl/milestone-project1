@@ -549,22 +549,19 @@ This makes it easier for smaller screens, without having to worry about adapting
 }
 
 /* Contact section */
+/* The Contact section in a grid layout and photo. */
 
 .container-5 {
-    min-height: 100vh;
-    background-color: rgba(147, 171, 153, 1);
-    color: #1F0303;
-    display: block;
-    padding: 10px;
-    width: 80%;
     margin: 0 auto;
+    padding-bottom: 40px;
+    width: 80%;
 }
 
 #contact form {
     display: grid;
     gap: 10px 10px;
     grid-template-columns: 2fr 1fr 1fr;
-    grid-template-rows: auto 1fr 1fr auto auto;
+    grid-template-rows: auto auto auto auto 1fr;
     grid-template-areas:
         "title title title"
         "photo fname lname"
@@ -581,37 +578,14 @@ This makes it easier for smaller screens, without having to worry about adapting
     padding: 10px;
 }
 
-#contact img {
-    grid-area: photo
-}
-
-#contact h2 {
-    grid-area: title
-}
-
-#fname {
-    grid-area: fname;
-}
-
-#lname {
-    grid-area: lname;
-}
-
-#subject {
-    grid-area: subject;
-}
-
-#email {
-    grid-area: email;
-}
-
-#message {
-    grid-area: message;
-}
-
-#send {
-    grid-area: controls;
-}
+#contact img { grid-area: photo }
+#contact h2 { grid-area: title }
+#fname { grid-area: fname; }
+#lname { grid-area: lname; }
+#subject { grid-area: subject; }
+#email { grid-area: email; }
+#message { grid-area: message; }
+#send { grid-area: controls; }
 
 #contact h2 {
     text-align: center;
@@ -623,6 +597,7 @@ This makes it easier for smaller screens, without having to worry about adapting
 }
 
 #contact-photo {
+    border-radius: 20px 0 0 20px;
     width: 100%;
 }
 
