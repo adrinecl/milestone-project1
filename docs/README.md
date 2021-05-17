@@ -115,7 +115,7 @@ Adaptations of the layout for the following screen sizes to ensure responsivenes
 
 ###### Color Scheme
 
-- The colors chosen were dusk rose, beige, sage and dark green. ![Color Palette](https://raw.githubusercontent.com/adrinecl/milestone-project1/master/docs/paus-color-palette.png)
+- The colors chosen were dusk rose, beige, sage and dark green. ![Color Palette](https://github.com/adrinecl/milestone-project1/blob/master/docs/images/paus-color-palette.png)
 - These colors were chosen to represent the following keywords, respectively: feminine, minimalist, calm and nature. They evoke a sense of elegance and appeal to an upscale audience.
 
 ###### Typography
@@ -141,14 +141,10 @@ The website features the benefits of joining the prenatal / postpartum exercise 
   - The navigation bar allows prospective users to navigate without reverting back to the previous page via the "back" button. One can simply navigate from page to page across all devices.
   - Members can easily find the appropriate area to login (pop-up form with e-mail and password fields, both required fields). The login is mandatory to unlock the members-only paid content. 
 
-![Nav Bar](**ADD LINK LATER**)
-
 - __The landing page video__
 
   - The landing page includes a video with an expecting mother calmly stretching and exercising, allowing the user to see exactly what to expect from this site and which audience the product is catered to. 
   - This section also introduces the user to the benefits of joining the program, in order to grab their attention and make them want to know more details, which will be provided in the coming sections.
-
-![Landing Page](**ADD LINK LATER**)
 
 - __How it Works section__
 
@@ -156,27 +152,19 @@ The website features the benefits of joining the prenatal / postpartum exercise 
   - Therefore, the user is provided with visual cues of the benefits mentioned earlier and we expect that this will spark their interest in becoming a member.
   - This should add value and encourage the website visitor to seriously consider subscribing to one of the plans presented in the next section. 
 
-![How it works](**ADD LINK LATER**)
-
 - __Subscribe section__
 
   - This section will allow the user to compare the Basic with the Premium plan, what features are included in each membership plan, the pricing alternatives and how often they are charged. 
   - The user can also see which mobile apps are available for download, in order to follow the program on the go.
 
-![Subscribe](**ADD LINK LATER**)
-
 - __About Us section__
 
   - This section will allow the user to get to know more about the company.
-
-![About Us](**ADD LINK LATER**)
 
 - __Contact section__
 
   - This section will allow the user to contact the company through a contact form.
   - The user needs to provide name, e-mail, the subject of the message and the message itself. All fields will be required. 
-
-![Contact](**ADD LINK LATER**)
 
 - __The Footer__ 
 
@@ -184,7 +172,6 @@ The website features the benefits of joining the prenatal / postpartum exercise 
   - The user is also encouraged to subscribe to the newsletter in a specific field and to keep connected via social media.
   - At the bottom of the page the user will find a convenient shortcut to the top of the page.
 
-![Footer](**ADD LINK LATER**)
 
 <details>
 <summary>Future features</summary>
