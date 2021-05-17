@@ -10,7 +10,7 @@ The name "Paus" comes from Swedish and it has several alternative translations a
 
 By subscribing to the website, women can choose between on-demand and live stream safe workouts curated specially for each stage of pregnancy. The workout are mainly inpired by yoga, pilates and calisthenics, as well as other activities such as meditation guidance, relaxation tips, mini courses for labor preparation and other relevant information. The live streams are a great way to socialize and keep themselves fit.
 
-[Responsive Mockup](https://raw.githubusercontent.com/adrinecl/milestone-project1/master/docs/wireframes/paus-mockup-all-devices.png)
+![Responsive Mockup](https://github.com/adrinecl/milestone-project1/blob/master/docs/images/paus-mockup-all-devices.png)
 
 
 ## User Experience (UX)
