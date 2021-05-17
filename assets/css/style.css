@@ -294,8 +294,19 @@ div i {
 
 /* Example videos */
 
+#how-examples {
+    display: grid;
+    gap: 10px 10px;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: auto;
+    grid-template-areas:
+        "A B C D";
+    justify-items: center;
+    padding: 50px 0;
+}
+
 .example-video {
-    border-radius: 25px;
+    border-radius: 20px;
     overflow: hidden;
     width: 300px;
     transform: translateZ(0);
@@ -307,6 +318,11 @@ div i {
     height: 200px;
     width: auto;
 }
+
+#example-1 { grid-area: A; }
+#example-2 { grid-area: B; }
+#example-3 { grid-area: C; }
+#example-4 { grid-area: D; }
 
 /* Subscription Plans section */
 
