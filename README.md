@@ -37,13 +37,13 @@ Future user stories should include visitors that are returning to the website, b
 <details>
 <summary>Project Goals</summary>
 The purpose of this project is to build a static front-end site, using mainly HTML5 and CSS3. The website should provide enough data in an aesthetically pleasing manner, while helping users achieve their goals. 
-<br>
+
 In this project, the main goal is to make sure that the user learns about a workout program for expecting and postpsartum mothers offered by the fictional company "Paus" and joins one of the subscription plans. Therefore, the project can create value for both the customers and the company, by providing an interesting and valuable product/service for the user and generating income for the company.
 </details>
 <details>
 <summary>Business Goals</summary>
 The main goal of the website is to increase sales of subscriptions to attract paid members and keep existing members by having a website with enough information for a visitor to see value and make a decision to join. This is the first ever developed website for "Paus".
-<br>
+
 **Audience:** the website target English-speaking expecting or postpartum mothers in the age range 18-45 worldwide, since all classed are available online both on-demand and live stream, depending on the subscription plan. The target audience has busy schedules. Currently they are looking for alternatives to stay active at home due to self isolation / lockdown due to the current COVID-19 pandemic, since pregnant and postpartum women are part of a risk group.
 </details>
 <details>
@@ -51,6 +51,7 @@ The main goal of the website is to increase sales of subscriptions to attract pa
 Prospective members / first website visitors: get to know the company "Paus" and the benefits of the workout program, compare plans and potentially subscribe to one of the options. 
 
 In the future, after development of the members-only section, the existing members will wish to access the program through the website.
+</details>
 
 #### Scope
 
@@ -64,17 +65,17 @@ A fixed bar at the top with the logo and login section will be used to facilitat
 
 The design should be feminine, calm, modern and signal connection to nature and wellness.
 
-- Home: The visitor should be able to get a feel for and identify the target audience and product/service immediately. This will be achieved by a big hero video and a keywords of the benefits that the program offers, with icons that create metaphors.
+- **Home:** The visitor should be able to get a feel for and identify the target audience and product/service immediately. This will be achieved by a big hero video and a keywords of the benefits that the program offers, with icons that create metaphors.
 
-- How it works: The visitor should know what to expect from the program and the steps to enroll for the program. This section includes example imagery to grab the attention of website visitors.
+- **How it Works:** The visitor should know what to expect from the program and the steps to enroll for the program. This section includes example imagery to grab the attention of website visitors.
 
-- Subscription plans: This section presents the membership options and compares them. The comparison should include features, pricing and if any free trials are available and for how long. This is also a good place to promote the download of the optional mobile app, increasing value for prospective members that are considering joining by showing that the program is convenient and available on the go.
+- **Subscription Plans:** This section presents the membership options and compares them. The comparison should include features, pricing and if any free trials are available and for how long. This is also a good place to promote the download of the optional mobile app, increasing value for prospective members that are considering joining by showing that the program is convenient and available on the go.
 
-- About Us: It should provide information about the company.
+- **About Us:** It should provide information about the company.
 
-- Contact: This section provides a form to contact the company.
+- **Contact:** This section provides a form to contact the company.
 
-- Footer: links to social media, newsletter opt-in form and shortcut to go back to the top after all the scrolling.
+- **Footer:** links to social media, newsletter opt-in form and shortcut to go back to the top after all the scrolling.
 
 Other features can be implemented, like the paid members-only page. For more information on future features, see the "Future Features" section.
 
@@ -96,10 +97,18 @@ The user is greeted with a nice and big hero video.
 
 This section illustrates the first draft of the website and how the information will be presented.
 
-##### Wireframes
+<details>
+<summary>Wireframes</summary>
 
 - A first draft was sketched by hand on paper and then Balsamiq was used for the final wireframes.
 [Balsamiq wireframes](https://raw.githubusercontent.com/adrinecl/milestone-project1/master/docs/wireframes/paus-wireframe.png).
+
+Adaptations of the layout for the following screen sizes to ensure responsiveness:
+- Desktop or laptop (screen width: 1440px or wider): 4 example videos in the "How it Works" section.
+- Desktop or Laptop (screen width: from 1200px up until 1440px): 3 example videos in the "How it Works" section.
+- Tablet (screen width: from 768px up until 1200px): 2 example videos in the "How it Works" section, move the mobile app mockup below the subscription plan options, move the photo in the "About Us" section below the text, remove the photo from the contact form, remove the Logo from the footer.
+- Mobile (screen width: up until 768): No example videos in the "How it Works" section, move the mobile app mockup below the subscription plan options, remove the photo in the "About Us" section below the text, remove the photo from the contact form, remove the Logo from the footer.
+</details>
 
 #### Surface
 ##### Design
