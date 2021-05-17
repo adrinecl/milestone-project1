@@ -25,7 +25,34 @@ body {
     padding-top: 66px;
 }
 
-/* Background colors of sections */
+/* Colors and sizes of sections */
+/* This CSS defines the background colors, width and height of the sections, text color, default padding. */
+
+#how-it-works {
+    min-height: 100vh;
+}
+
+#subscription-plans {
+    min-height: 100vh;
+}
+
+#about-us {
+    min-height: 100vh;
+}
+
+#contact {
+    min-height: calc(100vh - 220px);
+}
+
+/* 220px is the footer */
+
+#how-it-works,
+#about-us,
+#subscription-plans,
+#contact {
+    padding-top: 100px;
+    width: 100%;
+}
 
 #home {
     background-color: rgba(145, 118, 106, 1);
@@ -34,18 +61,14 @@ body {
 
 #how-it-works,
 #about-us {
-    min-height: 100vh;
-    width: 100%;
+    color: #1F0303;
     background-color: rgba(197, 186, 171, 1);
-    padding-top: 100px;
 }
 
 #subscription-plans,
 #contact {
-    min-height: 100vh;
-    width: 100%;
+    color: #031F03;
     background-color: rgba(147, 171, 153, 1);
-    padding-top: 100px;
 }
 
 #footer {
@@ -250,7 +273,7 @@ div i {
 /* How it Works section */
 
 /* The How it works section has two columns, using a grid layout to position the columns.
-This makes it easier for smaller screens, without having to worry about adapting the code too much.*/
+This makes it easier for smaller screens, without having to worry about adapting the code too much. */
 
 .container-2 {
     margin: 0 auto;
@@ -348,7 +371,7 @@ This makes it easier for smaller screens, without having to worry about adapting
 
 
 /* Subscription Plans section */
-/* This makes a grid with the mobile app mockup of the workout program with the subscription plans options aligned */
+/* This makes a grid with the mobile app mockup of the workout program with the subscription plans options aligned. */
 
 .container-3 {
     display: grid;
@@ -638,7 +661,7 @@ This makes it easier for smaller screens, without having to worry about adapting
 }
 
 /* Footer */
-/* The Footer section includes a flex box to organize all of the elements such as logo, social media links, newsletter opt-in, shortcut arrow to the top of the page */
+/* The Footer section includes a flex box to organize all of the elements such as logo, social media links, newsletter opt-in, shortcut arrow to the top of the page. */
 
 .container-footer {
     height: 200px;
