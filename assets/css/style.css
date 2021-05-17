@@ -346,65 +346,140 @@ This makes it easier for smaller screens, without having to worry about adapting
     grid-area: D;
 }
 
+
 /* Subscription Plans section */
+/* This makes a grid with the mobile app mockup of the workout program with the subscription plans options aligned */
 
 .container-3 {
-    min-height: 100vh;
-    background-color: rgba(147, 171, 153, 1);
-    color: #1F0303;
-    display: flex;
-    justify-content: flex-start;
-    align-items: center;
-    padding: 10px 0;
+    display: grid;
+    gap: 10px 20px;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: auto auto auto;
+    grid-template-areas:
+        "title title title"
+        "phone basic premium"
+        "phone . .";
+    justify-items: center;
+    margin: 0 auto;
+    padding-bottom: 40px;
+    width: 80%;
 }
 
-#subscription-plans>h2 {
-    background-color: rgba(147, 171, 153, 1);
-    color: #1F0303;
-    height: 35px;
-    text-align: center;
-    padding-top: 10px;
-}
+#subscription-plans h2 { grid-area: title; }
+#phone-app-mockup { grid-area: phone; }
+#basic-plan { grid-area: basic; }
+#premium-plan { grid-area: premium; }
 
-#phone-app-mockup {
-    text-align: center;
+.container-3 h2 {
+    margin-bottom: 40px;
 }
 
 #paus-app-mockup {
-    height: 50%;
-    width: 50%;
+    display: block;
     margin: 0 auto;
+    width: calc(100% - 60px);
 }
 
-#basic-plan,
-#premium-plan {
-    height: 80%;
-    width: 30%;
+#phone-app-badges {
+    display: flex;
+    flex-direction: row;
+}
+
+#badge-app-store,
+#badge-google-play {
+    display: block;
+    height: 40px;
+    width: 120px;
+}
+
+#badge-app-store {
+    margin: 10px 6px 10px auto;
+}
+
+#badge-google-play {
+    margin: 10px auto 10px 5px;
+}
+
+.plan {
     background-color: rgba(250, 250, 250, 0.5);
-    color: #1F0303;
     border-radius: 20px;
+    color: #1F0303;;
+    display: grid;
+    gap: 10px 10px;
+    grid-template-columns: 1fr;
+    grid-template-rows: auto 1fr auto;
+    grid-template-areas:
+        "title"
+        "item"
+        "button";
     padding: 10px;
-    margin-right: 40px;
 }
 
-.checkmark {
-    color: rgba(108, 135, 116, 1);
-    font-size: 150%;
-    padding: 0 3px 3px 15px;
-    text-align: left;
+.plan h3 { grid-area: title; }
+.included { grid-area: item; }
+.plan form { grid-area: button; }
+
+.included {
+    list-style-type: none;
 }
 
-.cross {
-    color: rgba(145, 118, 106, 1);
-    font-size: 150%;
-    padding: 0 3px 3px 15px;
-    text-align: left;
+.included li {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 8px;
 }
 
-#basic-plan h3,
-#premium-plan h3 {
+.included .trial,
+.included .checkmark,
+.included .cross {
+    flex-shrink: 0;
+    font-size: 100%;
     text-align: center;
-    padding: 15px 0 30px;
+    width: 40px;
+}
+
+.included .trial {
+    color: rgba(108, 135, 116, 1);
+}
+
+.included .checkmark {
+    color: rgba(108, 135, 116, 1);
+}
+
+.included .cross {
+    color: rgba(145, 118, 106, 1);
+}
+
+.plan h3 {
+    border-bottom: 1px dashed rgba(147, 171, 153, 0.5);
+    margin-bottom: 10px;
+    padding: 10px 0 20px;
+    text-align: center;
+}
+
+.plan .price {
+    border-top: 1px dashed rgba(147, 171, 153, 0.5);
+    font-size: large;
+    padding-top: 20px;
+    text-align: center;
+}
+
+.plan input[type="submit"] {
+    background: rgba(147, 171, 153, 0.5);
+    border-radius: 0px 0px 10px 10px;
+    color: rgba(0, 0, 0, 0.65);
+    font-size: medium;
+    margin-top: 20px;
+    padding: 20px;
+    width: 100%;
+}
+
+.plan input[type="submit"]:hover {
+    background: rgba(147, 171, 153, 0.4);
+}
+
+.plan input[type="submit"]:active {
+    background: rgba(147, 171, 153, 0.6);
 }
 
 
