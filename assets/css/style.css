@@ -213,6 +213,16 @@ a {
     color: #fafafa;
 }
 
+@media only screen and (max-width: 799px) {
+    .container-logo {
+        margin-left: 0;
+    }
+
+    header:hover .navbar {
+        display: none;
+    }
+}
+
 /* hero video */
 
 #hero {
@@ -269,6 +279,15 @@ div i {
     font-weight: normal;
 }
 
+@media only screen and (max-width: 799px) {
+    #box-3 {
+        border-left: 1px solid rgba(197, 186, 171, 1);
+    }
+
+    #box-arrow-down {
+        display: none;
+    }
+}
 
 /* How it Works section */
 
@@ -326,6 +345,17 @@ This makes it easier for smaller screens, without having to worry about adapting
     margin-bottom: 10px;
 }
 
+@media only screen and (max-width: 799px) {
+    #how-text {
+        grid-template-columns: 1fr;
+        grid-template-rows: auto auto auto;
+        grid-template-areas:
+            "title"
+            "info"
+            "list";
+    }
+}
+
 /* Example videos */
 
 #how-examples {
@@ -369,6 +399,50 @@ This makes it easier for smaller screens, without having to worry about adapting
     grid-area: D;
 }
 
+@media only screen and (max-width: 1499px) {
+    #how-examples {
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-template-areas: "A B C";
+    }
+
+    #example-4 {
+        display: none;
+    }
+}
+
+
+@media only screen and (max-width: 1199px) {
+    #how-examples {
+        grid-template-columns: 1fr 1fr;
+        grid-template-areas: "A B";
+    }
+
+    #example-3 {
+        display: none;
+    }
+
+    #example-4 {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 799px) {
+    #example-1 {
+        display: none;
+    }
+
+    #example-2 {
+        display: none;
+    }
+
+    #example-3 {
+        display: none;
+    }
+
+    #example-4 {
+        display: none;
+    }
+}
 
 /* Subscription Plans section */
 /* This makes a grid with the mobile app mockup of the workout program with the subscription plans options aligned. */
@@ -525,6 +599,41 @@ This makes it easier for smaller screens, without having to worry about adapting
     background: rgba(147, 171, 153, 0.6);
 }
 
+@media only screen and (max-width: 1199px) {
+    .container-3 {
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: auto auto auto;
+        grid-template-areas:
+            "title title"
+            "basic premium"
+            "phone phone";
+    }
+
+    #paus-app-mockup {
+        margin-top: 40px;
+        width: 50%;
+    }
+}
+
+@media only screen and (max-width: 799px) {
+    .container-3 {
+        grid-template-columns: 1fr;
+        grid-template-rows: auto auto auto auto;
+        grid-template-areas:
+            "title"
+            "basic"
+            "premium"
+            "phone";
+    }
+
+    #premium-plan {
+        margin-top: 40px;
+    }
+
+    #paus-app-mockup {
+        width: 80%;
+    }
+}
 
 /* About Us section */
 /* The About Us section in a grid layout and photo. This is to make all sections look very similar in HTML and CSS, so having the same HTML elements (section, h2, container, etc.) and CSS rules (grid layout, width, padding). */
@@ -571,6 +680,36 @@ This makes it easier for smaller screens, without having to worry about adapting
     width: 100%;
 }
 
+@media only screen and (max-width: 1199px) {
+    .container-4 {
+        grid-template-columns: 1fr;
+        grid-template-rows: auto 1fr auto;
+        grid-template-areas:
+            "title"
+            "text"
+            "photo";
+    }
+
+    #about-us-photo {
+        margin-top: 20px;
+        width: 50%;
+    }
+}
+
+@media only screen and (max-width: 799px) {
+    .container-4 {
+        grid-template-columns: 1fr;
+        grid-template-rows: auto 1fr;
+        grid-template-areas:
+            "title"
+            "text";
+    }
+
+    #about-us-photo {
+        display: none;
+    }
+}
+
 /* Contact section */
 /* The Contact section in a grid layout and photo. */
 
@@ -584,7 +723,7 @@ This makes it easier for smaller screens, without having to worry about adapting
     display: grid;
     gap: 10px 10px;
     grid-template-columns: 2fr 1fr 1fr;
-    grid-template-rows: auto auto auto auto 1fr;
+    grid-template-rows: auto auto auto 1fr auto;
     grid-template-areas:
         "title title title"
         "photo fname lname"
@@ -638,10 +777,6 @@ This makes it easier for smaller screens, without having to worry about adapting
     margin-bottom: 40px;
 }
 
-#message {
-    height: 160px;
-}
-
 #contact-photo {
     border-radius: 20px 0 0 20px;
     width: 100%;
@@ -658,6 +793,27 @@ This makes it easier for smaller screens, without having to worry about adapting
 
 #send:active {
     background: rgba(50, 50, 50, 0.25);
+}
+
+@media only screen and (max-width: 1199px) {
+    #contact form {
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: auto auto auto auto 1fr;
+        grid-template-areas:
+            "title title"
+            "fname lname"
+            "subject email"
+            "message message"
+            "controls controls";
+    }
+
+    #message {
+        height: 300px;
+    }
+
+    #contact-photo {
+        display: none;
+    }
 }
 
 /* Footer */
@@ -690,7 +846,8 @@ This makes it easier for smaller screens, without having to worry about adapting
 }
 
 .social-networks>li {
-    display: inline;
+    display: inline-block;
+    margin-right: 10px;
 }
 
 .social-networks i {
@@ -736,4 +893,20 @@ This makes it easier for smaller screens, without having to worry about adapting
     font-size: 200%;
     color: #fafafa;
     margin: 0 auto;
+}
+
+@media only screen and (max-width: 1199px) {
+    #footer-about {
+        display: none;
+    }
+
+    #box-arrow-up {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 799px) {
+    .container-footer {
+        flex-direction: column;
+    }
 }
