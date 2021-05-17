@@ -163,7 +163,7 @@ The website features the benefits of joining the prenatal / postpartum exercise 
 - The confirmation of processing the billing info should send an e-amil for the visitor to create an account.
 - A page to create an account for login after the visitor is billed for a subscription plan. Then an e-mail should be sent for the account to be verified.
 - Members-only area with access to the content.
-- A mobile app for easy access to the the members-only area on the go.
+- A mobile app download links for easy access to the the members-only area on the go.
 - Terms and conditions (related to subscription, charging, cancellation, user license agreement etc).
 - Privacy Policy and Cookies.
 - 404 error page.
