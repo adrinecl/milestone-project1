@@ -1,6 +1,6 @@
 # Paus Website
 
-[View the live project here.](**ADD LINK LATER**)
+[View the live project here.](https://adrinecl.github.io/milestone-project1/)
 
 ## About the Website
 
@@ -23,22 +23,21 @@ As a [type of user], I want [an action] so that [a reason/a value]
 1. As a First Time Visitor, I want to immediately understand the main purpose of the site and if I belong to the audience it targets.
 2. I want to be able to easily navigate throughout the website in order to find out more about the workout program and its benefits.
 3. I want to find the subscription plan options, what features they include and their respective pricing. 
-4. I want to check their social media links to evaluate their engagement with the public and how trustworthy the company is.
+4. I want to be able to subscribe for a free trial period.
+5. I want to be able to get in touch with the company, in order to address any questions that I may have.
+6. I want to find the links to their social media pages.
+7. I want to sign up for their newsletter, in case there is a special discount to join the program at a lower rate.
 
-#### Returning Visitor Goals
-1. As a Returning Visitor, I want to be able to subscribe for a free trial period.
-2. I want to be able to get in touch with the company, in order to address any questions that I may have.
-3. I want to find the links to their social media pages.
-4. I want to sign up for their newsletter, in case there is a special discount to join the program at a lower rate.
-
-#### Frequent User Goals
-1. As a Frequent User, I want to find information about how to quickly Login to the members-only paid area.
-2. I want to check any new social media links or links that I do not follow yet.
-3. I want to sign up to the newsletter so that I am informed about any major updates, events, live stream sessions and/or changes to the website, pricing or organization.
-4. I also want to be informed of opportunities to upgrade from the Basic plan to the Premium plan at a special loyalty rate.
+Future user stories should include visitors that are returning to the website, but have not subscribed yet and the paid members, who will access the main website to get to the paid members-only dedicated area
 
 ## Strategy
+The main goal of the website is to increase sales of subscriptions to attract paid members and keep existing members by having a website with enough information for a visitor to see value and make a decision to join. This is the first ever developed website for "Paus".
+
+Audience: the website target English-speaking expecting or postpartum mothers in the age range 18-45 worldwide, since all classed are available online both on-demand and live stream, depending on the subscription plan. The target audience has busy schedules. Currently they are looking for alternatives to stay active at home due to self isolation / lockdown due to the current COVID-19 pandemic, since pregnant and postpartum women are part of a risk group.
+
 ## Scope
+
+
 ## Structure
 
 ## Skeleton
