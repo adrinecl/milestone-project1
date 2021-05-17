@@ -25,3 +25,11 @@ When the visitor compares the Basic and Premium subscription plans, the first po
 The form to contact the company is available right on the front page, by scrolling to the bottom of the page or by clicking on the quick navigation link. Based on the visitor's previous experiences with other websites, they should intuitively look towards the bottom of the page for contact information, but in this case they will directly find the contact form itself.
 
 ![Laptop: Contact form](https://github.com/adrinecl/milestone-project1/blob/master/docs/images/laptop-contact-form.png)
+
+**6. I want to find the links to their social media pages.**
+The visitor is likely to look for the standard social media icons (Facebook, Instagram, etc.) in either the header or the footer of the page. They will find the icons in the footer, by scrolling to the bottom of the page. This will require some effort from the visitor, but navigating away from the website is not the main action that should be promoted, signing up for one of the plans is.
+
+![Laptop: Footer](https://github.com/adrinecl/milestone-project1/blob/master/docs/images/laptop-footer.png)
+
+**7. I want to sign up for their newsletter, in case there is a special discount to join the program at a lower rate.**
+This visitor will also find the newsletter signup in the footer of the page. This should be familiar as many websites have their newsletter signup in the footer. Some websites also promotes the newsletter using modal subscription popup dialogs, but while this may drive more traffic to the newsletter, it is not necessarily as beneficial to business as it would be for an e-commerce website, where emails with discount codes will drive a lot of the traffic. Instead of driving visitors to the newsletter, the focus is on getting them to sign up to a plan.

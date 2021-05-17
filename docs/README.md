@@ -266,7 +266,7 @@ No errors were found when passing through the official [W3C CSS Validator]().
 
 Throughout the project some of the following bugs were fixed:
 
-- Occurences of missing end tags, e.g., "</section>" and "</p>".
+- Occurences of missing end tags, e.g., "section" and "p".
 - Invalid property value in CSS rule: "heavier" as font-weight instead of "bolder".
 
 ### Unfixed Bugs
@@ -279,7 +279,7 @@ Throughout the project some of the following bugs were fixed:
 ### Supported Screens and Browsers
 
 - The responsiveness of the website was tested using the Chrome Device Mode (on Chrome DevTools), to check the experience for different screen sizes.
-- The tests were performed with the standard breakpoints in Chrome, i.e., 320px, 375px, 425px, 768px, 1024px, 1440px, corresponding to small mobile screens up to large laptop screens.
+- The tests were performed with the standard breakpoints in Chrome, i.e., 320px, 375px, 425px, 768px, 1024px, 1440px, corresponding to small mobile screens up to large laptop and desktop screens.
 - In addition to the standard breakpoints, additional sizes between these were tested by manually entering screen sizes, to make sure it works well on any device.
 
 ## Deployment
