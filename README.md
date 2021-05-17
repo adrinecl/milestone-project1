@@ -299,7 +299,15 @@ Throughout the project some of the following bugs were fixed:
 
 ### Gitpod
 
-ADD
+The project was deployed to Gitpod.
+
+These are the steps to deploy to GitHub Pages:
+
+1. Log in to GitHub and locate the GitHub Repository one wishes to deploy with Gitpod.
+2. At the top right of the Repository (not top of page), locate the "Gitpod" button.
+3. Scroll down the Settings page until you locate the "GitHub Pages" Section on the menu to the left.
+4. Under "Source", click the "Branch" dropdown and select "Master" instead of "None".
+5. The page will automatically refresh and the link will be shown on top.
 
 ### Github Pages
 
@@ -308,10 +316,10 @@ The project was deployed to GitHub Pages.
 These are the steps to deploy to GitHub Pages:
 
 1. Log in to GitHub and locate the GitHub Repository one wishes to deploy to GitHub Pages.
-2. At the top right of the Repository (not top of page), locate the "Settings" Button on the menu.
-3. Scroll down the Settings page until you locate the "GitHub Pages" Section on the menu to the left.
-4. Under "Source", click the "Branch" dropdown and select "Master" instead of "None".
-5. The page will automatically refresh and the link will be shown on top.
+2. At the top right of the Repository, locate the "Settings" button on the menu.
+3. This will create a workspace on Gitpod for this project.
+4. Using the Terminal on Gitpod, type "python3 -m http.server".
+5. A blue button will pop on the bottom right of the screen with the options to open in preview or the browser (Port 8000).
 
 ## Credits
 
