@@ -270,7 +270,7 @@ No errors were found when passing through the official [W3C CSS Validator]().
 
 ### Test Cases
 
-[Test cases (user story based with screenshots)]()
+[Test cases (user story based with screenshots)](https://github.com/adrinecl/milestone-project1/blob/master/docs/TESTING.md)
 
 ### Fixed Bugs
 
@@ -323,7 +323,7 @@ These are the steps to deploy to GitHub Pages:
 
 ### Code
 
-All code written by the developer.
+All code written by the developer, Adrine Curcio Lindström.
 
 ### Resources
 
