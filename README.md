@@ -212,17 +212,24 @@ The website features the benefits of joining the prenatal / postpartum exercise 
 
 ### Validator Testing
 
-- [W3C Markup Validator]()
-- [W3C CSS Validator]()
+#### HTML
+No errors were returned when passing through the official [W3C Markup Validator](**ADD LINK**).
+#### CSS
+No errors were found when passing through the official [W3C CSS Validator](**ADD LINK**).
 
 ### Unfixed Bugs
 
+- At the moment it does not lead to the paid members-only page. It is a future feature.
+- Subscription plans at the moment do not lead to the billing page. It is a future feature.
+- Contact form confirmation page should be changed to a JavaScript message instead, in order to keep the visitor in the same page as much as possible to make it easier to make a decision to join a subscription plan.
+- Newsletter opt-in confirmation page should be changed to a JavaScript message instead, in order to keep the visitor in the same page as much as possible to make it easier to make a decision to join a subscription plan.
 
 ## Deployment
 
 ### Gitpod
 
 ### Github Pages
+
 
 ## Credits
 
