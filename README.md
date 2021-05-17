@@ -1,6 +1,7 @@
 # Paus Website
 
 [View the live project here.](https://adrinecl.github.io/milestone-project1/)
+![Responsive Mockup](https://github.com/adrinecl/milestone-project1/blob/master/docs/images/paus-mockup-all-devices.png)
 
 ## About the Website
 
@@ -9,8 +10,6 @@
 The name "Paus" comes from Swedish and it has several alternative translations and interpretations that are all fitting to this project. It can mean a "waiting period", which every pregnancy is in its essence. It can be to "take a break" and have some time for oneself to focus on their own wellbeing, which is essential for busy mothers. It also relates to "pausing" when it is important to take it slow and listen to your body in times of stress or postpartum recovery.
 
 By subscribing to the website, women can choose between on-demand and live stream safe workouts curated specially for each stage of pregnancy. The workout are mainly inpired by yoga, pilates and calisthenics, as well as other activities such as meditation guidance, relaxation tips, mini courses for labor preparation and other relevant information. The live streams are a great way to socialize and keep themselves fit.
-
-![Responsive Mockup](https://github.com/adrinecl/milestone-project1/blob/master/docs/images/paus-mockup-all-devices.png)
 
 
 ## User Experience (UX)
