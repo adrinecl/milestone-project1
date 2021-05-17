@@ -319,7 +319,7 @@ These are the steps to deploy to GitHub Pages:
 2. At the top right of the Repository, locate the "Settings" button on the menu.
 3. This will create a workspace on Gitpod for this project.
 4. Using the Terminal on Gitpod, type "python3 -m http.server".
-5. A blue button will pop on the bottom right of the screen with the options to open in preview or the browser (Port 8000).
+5. A blue button will pop on the bottom right of the screen with the options to make it public, open in preview or the browser (Port 8000).
 
 ## Credits
 
