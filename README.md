@@ -73,7 +73,17 @@ Other features can be implemented, like the paid members-only page. For more inf
 
 ## Structure
 
+A single page so the user can keep on the website and not navigate away, providing few steps for the user to make a decision to subscribe to a workout plan.
 
+Relevant information should be displayed in a consistent and intuitive manner so that it grabs the attention of the user, while providing the information that the user needs in order to see value in the workout plan as a convenient solution to the user's problems.
+
+The most importent content is large and centered, including the logo which is fixed and follows while scrolling, which is good for branding. The users can easily get to any other section from the point they are so scrolling does not become tiresome.
+
+The site consists of the following pages: Home, How it Works, Subscription Plans, About Us and Contact.
+The header includes a fixed bar with the logo and the login section, as well as a navbar on hover.
+The footer shows the logo and provides important information about social media links, newsletter opt-in and a shortcut arrow back to the top.
+
+The user is greeted with a nice and big hero video.
 
 ## Skeleton
 
@@ -175,6 +185,7 @@ The website features the benefits of joining the prenatal / postpartum exercise 
 
 - The responsiveness of the website was tested using the Chrome device tools (on Chrome DevTools), to check the experience for different screen sizes.
 - The tests were performed with the standard breakpoints in Chrome, i.e., 320px, 375px, 425px, 768px, 1024px, 1440px, corresponding to small mobile screens up to large laptop screens.
+- In addition to the standard breakpoints, additional sizes between these were tested by manually entering screen sizes, to make sure it works well on any device.
 
 ## Accessibility
 
