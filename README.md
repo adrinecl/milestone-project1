@@ -82,7 +82,7 @@ In the future, other features can be implemented, like the paid members-only pag
 
 #### Color Scheme
 
-- The colors chosen were dusk rose, beige, sage and dark green. See ![Color Palette](https://raw.githubusercontent.com/adrinecl/milestone-project1/master/docs/Paus%20-%20Color%20Palette.png) here.
+- The colors chosen were dusk rose, beige, sage and dark green. ![Color Palette](https://raw.githubusercontent.com/adrinecl/milestone-project1/master/docs/Paus%20-%20Color%20Palette.png)
 - These colors were chosen to represent the following keywords, respectively: feminine, minimalist, calm and nature. They evoke a sense of elegance and appeal to an upscale audience.
 
 #### Typography
@@ -162,7 +162,11 @@ The website features the benefits of joining the prenatal / postpartum exercise 
 
 ## Responsiveness
 
+
+
 ## Accessibility
+
+- "Alt" descriptions of images included for screen readers.
 
 ## Technologies Used
 
@@ -208,25 +212,36 @@ The website features the benefits of joining the prenatal / postpartum exercise 
 
 ### Validator Testing
 
+- [W3C Markup Validator]()
+- [W3C CSS Validator]()
+
 ### Unfixed Bugs
 
 
 ## Deployment
 
+### Gitpod
 
+### Github Pages
 
 ## Credits
 
 ### Code
 
 All code written by the developer.
-Main sources for consultation and troubleshooting:
+
+### Resources
+
+Main sources used for consultation and troubleshooting:
 
 1. [W3Schools](https://www.w3schools.com/)
 - Mainly for CSS syntax help and troubleshooting.
 
 2. [MDN Web Docs](https://developer.mozilla.org/en-US/)
 - Mainly for CSS syntax help and troubleshooting.
+
+3. [CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- For understanding how flex boxes work.
 
 ### Content
 
