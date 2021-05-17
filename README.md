@@ -152,11 +152,15 @@ The website features the benefits of joining the prenatal / postpartum exercise 
 
 ### Future features
 
-- Members-only area with access to the content.
 - Payment form with credit card processing information.
+- The confirmation of processing the billing info should send an e-amil for the visitor to create an account.
+- A page to create an account for login after the visitor is billed for a subscription plan. Then an e-mail should be sent for the account to be verified.
+- Members-only area with access to the content.
 - A mobile app for easy access to the the members-only area on the go.
 - Terms and conditions (related to subscription, charging, cancellation, user license agreement etc).
 - Privacy Policy and Cookies.
+- 404 error page.
+- A FAQ (Frequently asked questions) page would be good to have.
 - Other nice features would be a blog that could add value to branding and search engine optimization (SEO).
 - Testimonials could also add value as social proof and encourage adoption to the workout program.
 
