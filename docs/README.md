@@ -115,8 +115,11 @@ Adaptations of the layout for the following screen sizes to ensure responsivenes
 
 ###### Color Scheme
 
-- The colors chosen were dusk rose, beige, sage and dark green. ![Color Palette](https://github.com/adrinecl/milestone-project1/blob/master/docs/images/paus-color-palette.png)
+- The colors chosen were dusk rose, beige, sage and dark green.
 - These colors were chosen to represent the following keywords, respectively: feminine, minimalist, calm and nature. They evoke a sense of elegance and appeal to an upscale audience.
+
+![Color Palette](https://github.com/adrinecl/milestone-project1/blob/master/docs/images/paus-color-palette.png)
+
 
 ###### Typography
 
@@ -263,7 +266,7 @@ No errors were found when passing through the official [W3C CSS Validator]().
 
 Throughout the project some of the following bugs were fixed:
 
-- Occurences of missing end tags, e.g., </section> and </p>.
+- Occurences of missing end tags, e.g., "</section>" and "</p>".
 - Invalid property value in CSS rule: "heavier" as font-weight instead of "bolder".
 
 ### Unfixed Bugs
