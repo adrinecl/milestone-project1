@@ -234,6 +234,11 @@ No errors were returned when passing through the official [W3C Markup Validator]
 #### CSS
 No errors were found when passing through the official [W3C CSS Validator](**ADD LINK**).
 
+### Fixed Bugs throught the project
+
+- Occurences of missing end tags, e.g., </section> and </p>.
+- Invalid property value in CSS rule: "heavier" as font-weight instead of "bolder".
+
 ### Unfixed Bugs
 
 - At the moment it does not lead to the paid members-only page. It is a future feature.
