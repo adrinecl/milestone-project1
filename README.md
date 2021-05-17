@@ -242,5 +242,5 @@ Main sources for consultation and troubleshooting:
 I appreaciate the support, feedback and guidance of the following people throughout this project:
 
 - My mentor [Rohit Sharma](https://github.com/rohit0286).
-- My colleagues for the support and encouragement on Slack.
-- The whole staff at Code Institute for being so helpful and readily available on Slack and in general just making the Full-Stack Software Development Program possible.
+- My fellow colleagues for the support and encouragement on Slack.
+- The Tutor support and the whole staff at Code Institute for being so helpful and readily available on Slack and in general just making the Full-Stack Software Development Program possible.
