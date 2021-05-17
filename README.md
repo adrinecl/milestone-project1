@@ -36,12 +36,14 @@ Future user stories should include visitors that are returning to the website, b
 
 <details>
 <summary>Project Goals</summary>
-The purpose of this project is to build a static front-end site, using mainly HTML5 and CSS3. The website should provide enough data in an aesthetically pleasing manner, while helping users achieve their goals. In this project, the main goal is to make sure that the user learns about a workout program for expecting and postpsartum mothers offered by the fictional company "Paus" and joins one of the subscription plans. Therefore, the project can create value for both the customers and the company, by providing an interesting and valuable product/service for the user and generating income for the company.
+The purpose of this project is to build a static front-end site, using mainly HTML5 and CSS3. The website should provide enough data in an aesthetically pleasing manner, while helping users achieve their goals. 
+<br>
+In this project, the main goal is to make sure that the user learns about a workout program for expecting and postpsartum mothers offered by the fictional company "Paus" and joins one of the subscription plans. Therefore, the project can create value for both the customers and the company, by providing an interesting and valuable product/service for the user and generating income for the company.
 </details>
 <details>
 <summary>Business Goals</summary>
 The main goal of the website is to increase sales of subscriptions to attract paid members and keep existing members by having a website with enough information for a visitor to see value and make a decision to join. This is the first ever developed website for "Paus".
-
+<br>
 **Audience:** the website target English-speaking expecting or postpartum mothers in the age range 18-45 worldwide, since all classed are available online both on-demand and live stream, depending on the subscription plan. The target audience has busy schedules. Currently they are looking for alternatives to stay active at home due to self isolation / lockdown due to the current COVID-19 pandemic, since pregnant and postpartum women are part of a risk group.
 </details>
 <details>
