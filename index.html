@@ -297,9 +297,9 @@
     <!-- Footer section -->
     <footer id="footer">
         <div class="container-footer">
-            <!-- Logo on the footer -->
             <div id="footer-about">
-                <a href="index.html">
+                <!-- Logo on the footer -->
+                <a href="index.html#">
                     <h1 id="logo-footer">Paus</h1>
                 </a>
             </div>
@@ -330,13 +330,11 @@
             </div>
             <!-- Newsletter opt-in form. In the future, JavaScript should be used to give the user a message that it was sent successfully, instead of leading the user out of the main single page -->
             <div id="newsletter-signup">
+                <h2>Sign up to our newsletter!</h2>
                 <form method="POST" action="https://formdump.codeinstitute.net/" class="signup-newsletter">
-                    <h2>Sign up to our newsletter!</h2>
-                    <br>
-                    <label for="newsletter-email">Email Address</label>
-                    <input id="newsletter-email" class="text-input" type="email" name="email_address" required>
-
-                    <input class="join-newsletter" type="submit" value="Send">
+                    <input id="newsletter-email" class="text-input" type="email" name="email_address"
+                        placeholder="Email address" required>
+                    <input class="join-newsletter" type="submit" value="Sign up">
                 </form>
             </div>
             <!-- Font Awesome arrow pointing up as a shortcut back all the way to the top to the hero video -->

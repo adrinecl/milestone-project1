@@ -578,14 +578,37 @@ This makes it easier for smaller screens, without having to worry about adapting
     padding: 10px;
 }
 
-#contact img { grid-area: photo }
-#contact h2 { grid-area: title }
-#fname { grid-area: fname; }
-#lname { grid-area: lname; }
-#subject { grid-area: subject; }
-#email { grid-area: email; }
-#message { grid-area: message; }
-#send { grid-area: controls; }
+#contact img {
+    grid-area: photo
+}
+
+#contact h2 {
+    grid-area: title
+}
+
+#fname {
+    grid-area: fname;
+}
+
+#lname {
+    grid-area: lname;
+}
+
+#subject {
+    grid-area: subject;
+}
+
+#email {
+    grid-area: email;
+}
+
+#message {
+    grid-area: message;
+}
+
+#send {
+    grid-area: controls;
+}
 
 #contact h2 {
     text-align: center;
@@ -615,6 +638,7 @@ This makes it easier for smaller screens, without having to worry about adapting
 }
 
 /* Footer */
+/* The Footer section includes a flex box to organize all of the elements such as logo, social media links, newsletter opt-in, shortcut arrow to the top of the page */
 
 .container-footer {
     height: 200px;
@@ -629,8 +653,6 @@ This makes it easier for smaller screens, without having to worry about adapting
     padding: 10px;
     color: #fafafa;
     background-color: rgba(108, 135, 116, 1);
-    ;
-    font-weight: heavier;
     text-align: center;
     flex-grow: 1;
 }
@@ -653,6 +675,38 @@ This makes it easier for smaller screens, without having to worry about adapting
     margin: 1%;
     padding: 5%;
     color: #fafafa;
+}
+
+#newsletter-signup form {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+#newsletter-signup input[type="email"],
+#newsletter-signup input[type="submit"] {
+    font-size: medium;
+    padding: 10px;
+}
+
+#newsletter-signup input[type="email"] {
+    margin-right: 10px;
+    width: 200px;
+}
+
+#newsletter-signup input[type="submit"] {
+    background: rgba(250, 250, 250, 0.5);
+    color: rgba(0, 0, 0, 0.65);
+    padding: 0 25px;
+}
+
+#newsletter-signup input[type="submit"]:hover {
+    background: rgba(250, 250, 250, 0.25);
+}
+
+#newsletter-signup input[type="submit"]:active {
+    background: rgba(50, 50, 50, 0.25);
 }
 
 #box-arrow-up i {
